@@ -198,7 +198,7 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
   font-weight: 500;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 .main-wrapper .publications-section .item {
   margin-left: 40px;
@@ -236,6 +236,7 @@ p {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
+  padding-left: 20px;
 }
 .main-wrapper .time {
   position: absolute;
