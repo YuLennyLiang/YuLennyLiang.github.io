@@ -24,7 +24,7 @@
 					<ul>
 						{{- range $index, $p := .Site.Params.journalpapers.list -}}
 						{{- with .enable }}
-						<li><span class="index">[J{{ add $index 1 }}]</span> {{ $p.author | markdownify }}. <strong>{{ $p.title | markdownify }}</strong>. {{ $p.journal|markdownify }}. {{ with $p.note}}{{ . | markdownify }}{{ end }}</li>
+						<li><span class="index">[J{{ add $index 1 }}]</span> {{ $p.author | markdownify }} <strong>{{ $p.title | markdownify }}</strong>. {{ $p.journal|markdownify }}. {{ with $p.note}}{{ . | markdownify }}{{ end }}</li>
 						{{- end -}}
 						{{- end }}
 					</ul>
