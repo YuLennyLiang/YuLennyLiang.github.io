@@ -6,9 +6,7 @@ title = "Yu Liang, PhD"
 # theme = "hugo-orbit-theme"
 
 # Do not build files for websites. Need them? Set to false
-disableRSS = true
-disableSitemap = true
-disable404 = true
+disableKinds=["404", "RSS", "sitemap"]
 
 [blackfriday]
 fractions = false
