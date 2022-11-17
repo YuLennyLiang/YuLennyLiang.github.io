@@ -1,0 +1,289 @@
+# Page settings
+
+baseurl = ""
+languageCode = "en-us"
+title = "Yu Liang, PhD"
+# theme = "hugo-orbit-theme"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[blackfriday]
+fractions = false
+hrefTargetBlank = true
+
+[params]
+
+# Meta
+    description = "Yu Liang, PhD, City University of Hong Kong"
+    author = "Yu Liang"
+
+# Theme styles
+    styles = "styles.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Yu Liang"
+        tagline = "Postdoc"
+        avatar = "profile.png"
+
+    # Contact section
+    [params.contact]
+        enable = true
+
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto:yliang22@cityu.edu.hk"
+        title = "yliang22@cityu.edu.hk"
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "PhD in Computer Science"
+        college = "City University of Hong Kong"
+        dates = "2016 - 2021"
+
+        [[params.education.list]]
+        degree = "MSc in Computer Science"
+        college = "Shandong University"
+        dates = "2010 - 2013"
+
+        [[params.education.list]]
+        degree = "BSc in Computer Science"
+        college = "Shandong University"
+        dates = "2006 - 2010"
+
+    # Languages section
+    [params.language]
+        enable = true
+        title = "Languages"
+
+        [[params.language.list]]
+        language = "Chinese"
+        level = "Native"
+
+        [[params.language.list]]
+        language = "English"
+        level = "Professional"
+
+    # Interests section
+    [params.interests]
+        enable = true
+        title = "Research Interests"
+
+        [[params.interests.list]]
+        interest = "File systems and memory management of mobile devices"
+
+        [[params.interests.list]]
+        interest = "Design and optimization of mobile storage systems"
+
+# Main body sections
+
+    # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+    # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "I received my Ph.D. degree from the City University of Hong Kong and then continue to work as a postdoc in the team of Prof. Tei-Wei Kuo (Dean of College of Engineering, Fellow of ACM and IEEE). I focus on the design and optimization of mobile operating systems, aiming at the needs of rapid start-up and response of applications, and prolonging the service life of devices:\n\n1) Put forward the cache file management technology to reduce unnecessary data writebacks to flash storage and prolong the service life of flash chips;\n\n2) Proposed a memory replacement strategy in line with the characteristics of mobile applications to improve the startup and running performance of applications;\n\n3) Proposed the joint optimization of file system and flash storage to improve the read and write performance and the service life of flash chips."
+
+    # Publications section
+    [params.publications]
+        enable = true
+        icon = "fa-book"
+        title = "Publications"
+        intro = ""
+        subtitlea ="Conference Papers"
+        subtitleb ="Journal Papers"
+
+    # Conference papers
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "eurosys23"
+        title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://2023.eurosys.org/)"
+        author = "Changlong Li; **Yu Liang**; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
+        journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2022-5-12"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "fast22"
+        title = "[CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime](https://www.usenix.org/conference/fast22/presentation/liang)"
+        author = "**Yu Liang**; Riwei Pan; Tianyu Ren; Yufei Cui; Rachata Ausavarungnirun; Xianzhang Chen; Changlong Li; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "In _20th USENIX Conference on File and Storage Technologies (FAST)_, July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "atc22"
+        title = "[Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems](https://www.usenix.org/conference/atc20/presentation/liang-yu)"
+        author = "**Yu Liang**; Jinheng Li; Rachata Ausavarungnirun; Riwei Pan; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "In _2020 USENIX Annual Technical Conference (ATC)_, Boston, MA, USA, 2020-7-15 to 2020-7-17 "
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "hotstorage20"
+        title = "[Differentiating Cache Files for Fine-grain Management to Improve Mobile Performance and Lifetime](https://www.usenix.org/conference/hotstorage20/presentation/liang)"
+        author = "**Yu Liang**; Jinheng Li; Xianzhang Chen; Rachata Ausavarungnirun; Riwei Pan; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "In _12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage)_, Boston, MA, USA, 2020-7-13 to 2020-7-14"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "fast20wip"
+        title = "[Work-in-progress: Uncovering Critical Data in Launching Mobile Applications to Improve User Experience at Low Cost](https://scholars.cityu.edu.hk/en/publications/uncovering-critical-data-in-launching-mobile-applications-to-improve-user-experience-at-low-cost(1ca2060e-9ea1-49d9-aa8e-5a0f1a5d41fa).html)"
+        author = "**Yu Liang**; Rachata Ausavarungnirun; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "In _18th USENIX Conference on File and Storage Technologies (FAST '20)_, Santa Clara, CA, USA, 2020-2-24 to 2019-2-27"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "hotstorage19"
+        title = "[Mismatched Memory Management of Android Smartphones](https://www.usenix.org/conference/hotstorage19/presentation/liang)"
+        author = "**Yu Liang**; Qiao Li; Chun Jason Xue;"
+        journal = "In _11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage)_, RENTON, WA, USA, 2019-7-8 to 2019-7-9"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "sac19"
+        title = "[Optimizing Fragmentation and Segment Cleaning for CPS based Storage Devices](https://dl.acm.org/doi/abs/10.1145/3297280.3297306)"
+        author = "Qi Li; Aosong Deng; Congming Gao; **Yu Liang**; Liang Shi; Edwin H.-M. Sha;"
+        journal = "In _2019 ACM/SIGAPP Symposium on Applied Computing (SAC)_, Limassol, Cyprus, 2019-4-8 to 2019-4-12"
+        note = ""
+
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "rtcsa17"
+        title = "[An Empirical Study of F2FS on Mobile Devices](https://ieeexplore.ieee.org/abstract/document/8046304)"
+        author = "**Yu Liang**; Chenchen Fu; Yajuan Du; Aosong Deng; Mengying Zhao; Liang Shi; Chun Jason Xue;"
+        journal = "In _IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)_, Hsinchu, Taiwan, China, 2017-8-16 to 2017-8-18"
+        note = ""
+
+    # Journal papers
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "tc21"
+        title = "[Read-Ahead Efficiency on Mobile Devices: Observation, Characterization, and Optimization](https://ieeexplore.ieee.org/abstract/document/9054972)"
+        author = "**Yu Liang**; Riwei Pan; Yajuan Du; Chenchen Fu; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "_IEEE TRANSACTIONS ON COMPUTERS (TC)_, 2021, 70: 99-110"
+        note = ""
+
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "tcad21"
+        title = "[iTRIM: I/O-Aware TRIM for Improving User Experience on Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9209165)"
+        author = "**Yu Liang**; Cheng Ji; Chenchen Fu; Rachata Ausavarungnirun; Qiao Li; Riwei Pan; Siyu Chen;Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_, 2021, 40: 1782-1795"
+        note = ""
+
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "tcad20"
+        title = "[SEAL: User Experience-Aware Two-Level Swap for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9211475)"
+        author = "Changlong Li; Liang Shi; **Yu Liang**; Chun Jason Xue;"
+        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_, 2020, 39: 4102-4114"
+        note = ""
+
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "tr20"
+        title = "[Process Variation Aware Read Performance Improvement for LDPC-Based nand Flash Memory](https://ieeexplore.ieee.org/abstract/document/8642917)"
+        author = "Qiao Li; Liang Shi; Yejia Di; Congming Gao; Cheng Ji; **Yu Liang**; Chun Jason Xue;"
+        journal = "_IEEE Transactionson Reliability (TR)_, 2020, 69: 310-321"
+        note = ""
+
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "tos20"
+        title = "[Inspection and Characterization of App File Usage in Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3404119)"
+        author = "Cheng Ji; Riwei Pan; Li-Pin Chang; Liang Shi; Zongwei Zhu; **Yu Liang**; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "_ACM Transactions on Storage (TOS)_, 2020, 16: 1-25"
+        note = ""
+
+    [[params.journalpapers.list]]
+        enable = true
+        cite = "sigbed19"
+        title = "[Boosting read-ahead efficiency for improved user experience on mobile devices](https://dl.acm.org/doi/abs/10.1145/3373400.3373412)"
+        author = "**Yu Liang**; Yajuan Du; Chenchen Fu; Riwei Pan; Liang Shi; Chun Jason Xue;"
+        journal = "_SIGBED Review_, 2019, 16: 75-80"
+        note = ""
+
+    # Patents Section
+    [params.patents]
+        enable = true
+        icon = "fa-file"
+        title = "Patents"
+
+        [[params.patents.list]]
+        patent = "Jason Chun Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Memory space management method and memory space management mechanism, 2021, China, 2021107427614"
+
+        [[params.patents.list]]
+        patent = "Jason Chun Xue, **Yu Liang**, Riwei Pan, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Cache file management method and mechanism, 2021, China, 2021107427864"
+
+        [[params.patents.list]]
+        patent = "Jason Chun Xue, **Yu Liang**, Liang Shi. A method and electronic design for accelerating application startup, 2019, China, 2019110613620"
+
+        [[params.patents.list]]
+        patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. Method for separating hot and cold data, 2018, China, 2015110297112"
+
+    # Experiences section
+    [params.experiences]
+        enable = true
+        icon = "fa-area-chart"
+        title = "Projects"
+
+        [[params.jobs.list]]
+        position = "F2FS File System Optimization"
+        dates = ""
+        company = ""
+        details = "1. A TRIM optimization “f2fs: relax async discard commands more” motivated by my paper [J4] has been submitted to the Linux kernel Archives by the collaborator.\n\n2. Provide code interpretation and analysis of advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
+
+        [[params.jobs.list]]
+        position = "Mobile Kernel Optimization Project"
+        dates = ""
+        company = ""
+        details = "1. Cache file optimization [C2] and file deduplication work have been approved by the collaborator. They are used in collaborator's OS to save storage space of mobile devices.\n\n2. Provided other three optimization prototypes for mobile devices (based on my papers [J1] [C3] [C5]). Some of them have been adopted by commercial smartphones."
+
+        [[params.jobs.list]]
+        position = "Joint Optimization of OS and eMMC Controller"
+        dates = ""
+        company = ""
+        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reduce unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the eMMC commercial products of the cooperative eMMC controller vendor."
+
+    # Services section
+    [params.services]
+        enable = true
+        icon = "fa-users"
+        title = "Academic Services"
+
+        [[params.services.list]]
+        item = "The program committee of ATC'23"
+
+        [[params.services.list]]
+        item = "The artifact evaluation committee of ATC'22, OSDI'22, and ASPLOS'23"
+
+        [[params.services.list]]
+        item = "The reviewer for International Journal of Intelligent Systems"
+
+    # Footer section
+
+    # The original template is released under the Creative Commons Attribution 3.0 License.
+    # Please keep the original attribution link when using for your own project.
+    # If you'd like to use the template without the attribution,
+    # you can check out other license options via template author's website: themes.3rdwavemedia.com
+    #
+    # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+    [params.footer]
+        copyright = "Yu Liang"

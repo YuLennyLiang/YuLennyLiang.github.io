@@ -1,0 +1,33 @@
+			<section class="section publications-section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.publications.icon }}"></i>{{ .Site.Params.publications.title }}</h2>
+				<div class="intro">
+					<p>{{ with .Site.Params.publications.intro }}{{ . | markdownify }}{{ end }}</p>
+				</div>
+
+				<div class="upper-row">
+					<h3 class="subtitle">{{ with .Site.Params.publications.subtitlea }}{{ . | markdownify }}{{ end }}</h3>
+				</div>
+				<div class="item">
+					<ul>
+						{{- range $index, $p := .Site.Params.conferencepapers.list -}}
+						{{- with .enable }}
+						<li><span class="index">[C{{ add $index 1 }}]</span> {{ $p.author | markdownify }} <strong>{{ $p.title | markdownify }}</strong>. {{ $p.journal|markdownify }}. {{ with $p.note}}{{ . | markdownify }}{{ end }}</li>
+						{{- end -}}
+						{{- end }}
+					</ul>
+				</div><!--//item-->
+
+				<div class="upper-row">
+					<h3 class="subtitle">{{ with .Site.Params.publications.subtitleb }}{{ . | markdownify }}{{ end }}</h3>
+				</div>
+				<div class="item">
+					<ul>
+						{{- range $index, $p := .Site.Params.journalpapers.list -}}
+						{{- with .enable }}
+						<li><span class="index">[J{{ add $index 1 }}]</span> {{ $p.author | markdownify }}. <strong>{{ $p.title | markdownify }}</strong>. {{ $p.journal|markdownify }}. {{ with $p.note}}{{ . | markdownify }}{{ end }}</li>
+						{{- end -}}
+						{{- end }}
+					</ul>
+				</div><!--//item-->
+
+			</section><!--//section-->

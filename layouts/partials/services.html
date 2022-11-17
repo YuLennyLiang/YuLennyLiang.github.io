@@ -1,0 +1,10 @@
+			<section class="services-section section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.services.icon }}"></i>{{ .Site.Params.services.title }}</h2>
+					<div class="item">
+						<ul>
+							{{- range .Site.Params.services.list }}
+							<li>{{ with .item }}{{ . | markdownify }}{{ end }}</li>
+							{{- end }}
+						</ul>
+					</div><!--//item-->
+			</section><!--//services-section-->

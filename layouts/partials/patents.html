@@ -1,0 +1,10 @@
+			<section class="section patents-section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.patents.icon }}"></i>{{ .Site.Params.patents.title }}</h2>
+				<div class="item">
+					<ul>
+						{{- range $index, $p := .Site.Params.patents.list }}
+						<li>[{{ add $index 1 }}] {{ with .patent }}{{ . | markdownify }}{{ end }}</li>
+						{{- end }}
+					</ul>
+				</div><!--//item-->
+			</section><!--//section-->
