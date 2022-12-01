@@ -268,7 +268,7 @@ hrefTargetBlank = true
         [[params.services.list]]
         item = "The program committee of ATC'23"
 
-	[[params.services.list]]
+        [[params.services.list]]
         item = "The shadow PC of EuroSys'23"
 
         [[params.services.list]]
