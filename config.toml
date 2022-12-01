@@ -245,7 +245,7 @@ hrefTargetBlank = true
         position = "F2FS File System Optimization"
         dates = ""
         company = ""
-        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J4] has been submitted to the Linux kernel Archives by the collaborator.\n\n2. Provide code interpretation and analysis of advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
+        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J2] has been submitted to the Linux kernel Archives by the collaborator.\n\n2. Provide code interpretation and analysis of advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization Project"
