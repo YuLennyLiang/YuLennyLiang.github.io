@@ -2,7 +2,7 @@
 
 baseurl = ""
 languageCode = "en-us"
-title = "Yu Liang, PhD"
+title = "Yu (Lenny) Liang"
 # theme = "hugo-orbit-theme"
 
 # Do not build files for websites. Need them? Set to false
@@ -15,8 +15,8 @@ hrefTargetBlank = true
 [params]
 
 # Meta
-    description = "Yu Liang, PhD, City University of Hong Kong"
-    author = "Yu Liang"
+    description = "Yu (Lenny) Liang, PhD"
+    author = "Yu (Lenny) Liang"
 
 # Theme styles
     styles = "styles.css"
@@ -25,7 +25,7 @@ hrefTargetBlank = true
 
     # Profile section
     [params.profile]
-        name = "Yu Liang"
+        name = "Yu (Lenny) Liang"
         tagline = "Postdoc"
         avatar = "profile.png"
 
