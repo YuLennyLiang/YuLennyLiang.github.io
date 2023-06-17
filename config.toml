@@ -92,7 +92,7 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I received my Ph.D. degree from the City University of Hong Kong and then continue to work as a postdoc in the team of Prof. Tei-Wei Kuo (Dean of College of Engineering, Fellow of ACM and IEEE). I focus on the design and optimization of mobile operating systems, aiming at the needs of rapid start-up and response of applications, and prolonging the service life of devices:\n\n1) Put forward the cache file management technology to reduce unnecessary data writebacks to flash storage and prolong the service life of flash chips;\n\n2) Proposed a memory replacement strategy in line with the characteristics of mobile applications to improve the startup and running performance of applications;\n\n3) Proposed the joint optimization of file system and flash storage to improve the read and write performance and the service life of flash chips."
+        summary = "I received my Ph.D. from the City University of Hong Kong (co-supervised by Prof. KUO Tei-Wei and Prof. Chun Jason Xue). Now I am a postdoc researcher at ETH Zurich (SAFARI group led by Prof. Onur Mutlu). I focus on the design and optimization of mobile operating systems and architecture, aiming at the needs of rapid start-up and the response of applications and prolonging the service life of devices:\n\n1) Put forward the cache file management technology to reduce unnecessary data writebacks to flash storage and prolong the service life of flash chips;\n\n2) Proposed a memory replacement strategy in line with the characteristics of mobile applications to improve the startup and running performance of applications;\n\n3) Proposed the joint optimization of file system and flash storage to improve the read and write performance and the service life of flash chips."
 
     # Publications section
     [params.publications]
@@ -264,7 +264,10 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-users"
         title = "Academic Services"
-
+        
+        [[params.services.list]]
+        item = "The program committee of DSN'24"
+        
         [[params.services.list]]
         item = "The program committee of ATC'23"
 
@@ -272,11 +275,13 @@ hrefTargetBlank = true
         item = "The shadow PC of EuroSys'23"
 
         [[params.services.list]]
-        item = "The artifact evaluation committee of ATC'22, OSDI'22, and ASPLOS'23"
+        item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, and ASPLOS'23"
 
         [[params.services.list]]
         item = "The reviewer for International Journal of Intelligent Systems"
 
+        [[params.services.list]]
+        item = "The reviewer for Computing Surveys"
     # Footer section
 
     # The original template is released under the Creative Commons Attribution 3.0 License.
