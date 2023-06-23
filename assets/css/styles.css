@@ -96,7 +96,7 @@ p {
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
 }
-.sidebar-wrapper .contact-list .email .fa {
+.sidebar-wrapper .contact-list .email {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
