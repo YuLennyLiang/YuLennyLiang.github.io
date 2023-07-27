@@ -27,7 +27,7 @@ hrefTargetBlank = true
     [params.profile]
         name = "Yu Liang"
         tagline = "Postdoc"
-        avatar = "profile.png"
+        avatar = "photo.jpg"
 
     # Contact section
     [params.contact]
