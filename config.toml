@@ -275,7 +275,7 @@ hrefTargetBlank = true
         item = "The shadow PC of EuroSys'23"
 
         [[params.services.list]]
-        item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, and ASPLOS'23"
+        item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
         item = "The reviewer for International Journal of Intelligent Systems"
