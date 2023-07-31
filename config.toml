@@ -36,8 +36,8 @@ hrefTargetBlank = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto:liangyu@ethz.ch"
-        title = "liangyu@ethz.ch"
+        url = "mailto:yulianglenny@gmail.com"
+        title = "yulianglenny@gmail.com"
 
     # Education section
     [params.education]
