@@ -266,6 +266,9 @@ hrefTargetBlank = true
         title = "Academic Services"
         
         [[params.services.list]]
+        item = "The program committee of EuroSys'25" 
+        
+        [[params.services.list]]
         item = "The program committee of DSN'24"
         
         [[params.services.list]]
