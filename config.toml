@@ -263,16 +263,10 @@ hrefTargetBlank = true
     [params.services]
         enable = true
         icon = "fa-users"
-        title = "Academic Services"
+        title = "Academic Services"   
         
         [[params.services.list]]
-        item = "The program committee of EuroSys'25" 
-        
-        [[params.services.list]]
-        item = "The program committee of DSN'24"
-        
-        [[params.services.list]]
-        item = "The program committee of ATC'23"
+        item = "The program committee of ATC'23, DSN'24, SYSTOR'24, EuroSys'25"
 
         [[params.services.list]]
         item = "The shadow PC of EuroSys'23"
@@ -281,10 +275,8 @@ hrefTargetBlank = true
         item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "The reviewer for International Journal of Intelligent Systems"
+        item = "The reviewer for International Journal of Intelligent Systems and Computing Surveys"
 
-        [[params.services.list]]
-        item = "The reviewer for Computing Surveys"
     # Footer section
 
     # The original template is released under the Creative Commons Attribution 3.0 License.
