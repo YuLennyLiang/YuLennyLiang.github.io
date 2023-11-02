@@ -109,7 +109,7 @@ hrefTargetBlank = true
         cite = "eurosys23"
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://2023.eurosys.org/)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
-        journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2022-5-12"
+        journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2023-5-12"
         note = " (Corresponding author)"
 
     [[params.conferencepapers.list]]
