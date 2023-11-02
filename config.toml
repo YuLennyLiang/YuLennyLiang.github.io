@@ -171,6 +171,14 @@ hrefTargetBlank = true
     # Journal papers
     [[params.journalpapers.list]]
         enable = true
+        cite = "tpds23"
+        title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap]"
+        author = "Changlong Li, **Yu Liang**; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
+        journal = "_IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 2023"
+        note = ""
+        
+    [[params.journalpapers.list]]
+        enable = true
         cite = "tc21"
         title = "[Read-Ahead Efficiency on Mobile Devices: Observation, Characterization, and Optimization](https://ieeexplore.ieee.org/abstract/document/9054972)"
         author = "**Yu Liang**; Riwei Pan; Yajuan Du; Chenchen Fu; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
