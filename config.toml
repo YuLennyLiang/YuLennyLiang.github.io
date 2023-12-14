@@ -78,7 +78,7 @@ hrefTargetBlank = true
         title = "Research Interests"
 
         [[params.interests.list]]
-        interest = "File systems and memory management of mobile devices"
+        interest = "File systems and memory management of mobile systems"
 
         [[params.interests.list]]
         interest = "Hardware and software co-design for mobile devices"
