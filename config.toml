@@ -110,7 +110,7 @@ hrefTargetBlank = true
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://2023.eurosys.org/)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
         journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2023-5-12"
-        note = " (Corresponding author)"
+        note = " (Mentoring Paper)"
 
     [[params.conferencepapers.list]]
         enable = true
@@ -175,7 +175,7 @@ hrefTargetBlank = true
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap]"
         author = "Changlong Li, **Yu Liang**; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
         journal = "_IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 2023"
-        note = "(Corresponding author)"
+        note = "(Mentoring Paper)"
         
     [[params.journalpapers.list]]
         enable = true
@@ -275,6 +275,10 @@ hrefTargetBlank = true
         
         [[params.services.list]]
         item = "The program committee of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25"
+
+        [[params.services.list]]
+        item = "Session chairs of ATC'23"
+
 
         [[params.services.list]]
         item = "The shadow PC of EuroSys'23"
