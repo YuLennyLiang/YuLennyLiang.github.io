@@ -173,7 +173,7 @@ hrefTargetBlank = true
         enable = true
         cite = "tpds23"
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap]"
-        author = "Changlong Li, **Yu Liang**; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
+        author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
         journal = "_IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 2023"
         note = "(Mentoring Paper)"
         
