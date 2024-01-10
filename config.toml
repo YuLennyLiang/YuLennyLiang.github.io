@@ -249,6 +249,14 @@ hrefTargetBlank = true
         icon = "fa-area-chart"
         title = "Projects"
 
+         # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "All these research works are used on commecial productions."
+
+
         [[params.jobs.list]]
         position = "F2FS File System Optimization"
         dates = ""
