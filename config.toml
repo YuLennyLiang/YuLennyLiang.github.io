@@ -247,7 +247,7 @@ hrefTargetBlank = true
     [params.experiences]
         enable = true
         icon = "fa-area-chart"
-        title = "Research Works Used on Commercial Products"
+        title = "Projects"
 
          # Summary section
 
@@ -255,19 +255,19 @@ hrefTargetBlank = true
         position = "F2FS File System Optimization"
         dates = ""
         company = ""
-        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J2] has been submitted to the Linux kernel Archives by the collaborator.\n\n2. Provide code interpretation and analysis of advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
+        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J2] has been submitted to the **Linux kernel Archives** by the collaborator.\n\n2. Provide code interpretation and analysis of the advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization Project"
         dates = ""
         company = ""
-        details = "1. Cache file optimization [C2] and file deduplication work have been approved by the collaborator. They are used in collaborator's OS to save storage space of mobile devices.\n\n2. Provided other three optimization prototypes for mobile devices (based on my papers [J1] [C3] [C5]). Some of them have been adopted by commercial smartphones."
+        details = "1. Cache file optimization [C2] and file deduplication work have been adopted by our industry collaborator and **used in their OS** to save storage space on mobile devices.\n\n2. Provided other three optimization prototypes for mobile devices (based on my papers [J1] [C3] [C5]). Some of them have been adopted by **commercial smartphones**."
 
         [[params.jobs.list]]
         position = "Joint Optimization of OS and eMMC Controller"
         dates = ""
         company = ""
-        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reduce unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the eMMC commercial products of the cooperative eMMC controller vendor."
+        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reduce unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the **eMMC commercial products** of the cooperative eMMC controller vendor."
 
     # Services section
     [params.services]
