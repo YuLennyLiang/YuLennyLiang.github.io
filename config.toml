@@ -102,11 +102,11 @@ hrefTargetBlank = true
 
         [[params.news.list]]
         date = "Feb 29, 2024"
-        details = "Our paper is accepted by ASPLOS 2024. "
+        details = "Our paper is accepted by ASPLOS 2024! "
 
         [[params.news.list]]
         date = "Nov 1, 2023"
-        details = "Our paper is accepted by TPDS."
+        details = "Our paper is accepted by TPDS!"
 
     # Publications section
     [params.publications]
