@@ -1,0 +1,11 @@
+			<section class="section news-section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.news.icon }}"></i>{{ .Site.Params.news.title }}</h2>
+				<div class="news-items">
+					{{- range .Site.Params.news.list }}
+					<div class="news-item">
+						<div class="news-date">{{ .date }}</div>
+						<div class="news-detail">{{ .details | markdownify }}</div>
+					</div>
+					{{- end }}
+				</div><!--//news-items-->
+			</section><!--//section-->

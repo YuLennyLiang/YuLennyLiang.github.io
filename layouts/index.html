@@ -12,6 +12,9 @@
 {{ if .Site.Params.summary.enable }}
 {{ partial "summary.html" . }}
 {{ end }}
+{{ if .Site.Params.news.enable }}
+{{ partial "news.html" . }}
+{{ end }}
 {{ if .Site.Params.publications.enable }}
 {{ partial "publications.html" . }}
 {{ end }}

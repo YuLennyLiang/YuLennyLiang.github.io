@@ -269,6 +269,28 @@ p {
 .main-wrapper .services-section .item li:last-child{
   margin-bottom: 15px;
 }
+
+.main-wrapper .news-section .news-items .news-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+
+.main-wrapper .news-section .news-items .news-item .news-date {
+  flex: 0 0 100px;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.main-wrapper .news-section .news-items .news-item .news-detail {
+  flex: 1;
+}
+
+.main-wrapper .news-section .news-items .news-item:last-child {
+  margin-bottom: 0;
+}
+
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
