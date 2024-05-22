@@ -118,10 +118,17 @@ hrefTargetBlank = true
         subtitleb ="Journal Papers"
 
     # Conference papers
+     [[params.conferencepapers.list]]
+        enable = true
+        cite = "ASPLPS 24"
+        title = "[More Apps, Faster Hot-Launch on Mobile Devices via Fore/Background-aware GC-Swap Co-design](https://dl.acm.org/doi/10.1145/3620666.3651377)"
+        author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; Yu Liang; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
+        journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2023-5-12"
+        note = " (Mentoring Paper)"
     [[params.conferencepapers.list]]
         enable = true
         cite = "eurosys23"
-        title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://2023.eurosys.org/)"
+        title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3552326.3567497)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
         journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2023-5-12"
         note = " (Mentoring Paper)"
