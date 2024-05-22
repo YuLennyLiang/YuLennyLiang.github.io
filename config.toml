@@ -123,8 +123,9 @@ hrefTargetBlank = true
         cite = "ASPLPS 24"
         title = "[More Apps, Faster Hot-Launch on Mobile Devices via Fore/Background-aware GC-Swap Co-design](https://dl.acm.org/doi/10.1145/3620666.3651377)"
         author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; Yu Liang; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
-        journal = "In _18th European Conference on Computer Systems (EuroSys)_, Rome, Italy, 2023-5-9 to 2023-5-12"
-        note = " (Mentoring Paper)"
+        journal = "the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)_, San Diego, USA, 2024-4-27 to 2024-5-1"
+        note = " "
+        
     [[params.conferencepapers.list]]
         enable = true
         cite = "eurosys23"
