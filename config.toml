@@ -139,7 +139,7 @@ hrefTargetBlank = true
         cite = "fast22"
         title = "[CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime](https://www.usenix.org/conference/fast22/presentation/liang)"
         author = "**Yu Liang**; Riwei Pan; Tianyu Ren; Yufei Cui; Rachata Ausavarungnirun; Xianzhang Chen; Changlong Li; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In _20th USENIX Conference on File and Storage Technologies (FAST)_, July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
+        journal = "In _20th USENIX Conference on File and Storage Technologies (FAST), July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
         note = ""
 
     [[params.conferencepapers.list]]
