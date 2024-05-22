@@ -122,7 +122,7 @@ hrefTargetBlank = true
         enable = true
         cite = "ASPLPS 24"
         title = "[More Apps, Faster Hot-Launch on Mobile Devices via Fore/Background-aware GC-Swap Co-design](https://dl.acm.org/doi/10.1145/3620666.3651377)"
-        author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; Yu Liang; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
+        author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; **Yu Liang**; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
         journal = "In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)_, San Diego, USA, 2024-4-27 to 2024-5-1"
         note = " "
         
