@@ -269,7 +269,7 @@ hrefTargetBlank = true
     [params.experiences]
         enable = true
         icon = "fa-area-chart"
-        title = "Projects"
+        title = "Project Outputs"
 
          # Summary section
 
