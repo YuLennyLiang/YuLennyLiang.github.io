@@ -301,11 +301,7 @@ hrefTargetBlank = true
         item = "The program committee of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, and FAST'25"
 
         [[params.services.list]]
-        item = "Session chairs of ATC'23"
-
-
-        [[params.services.list]]
-        item = "The shadow PC of EuroSys'23"
+        item = "Session chair of ATC'23"
 
         [[params.services.list]]
         item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
