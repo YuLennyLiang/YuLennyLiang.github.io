@@ -307,7 +307,7 @@ hrefTargetBlank = true
         item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "The reviewer for International Journal of Intelligent Systems and Computing Surveys"
+        item = "The reviewer for IEEE Transactions on Computers, International Journal of Intelligent Systems, and Computing Surveys"
 
     # Footer section
 
