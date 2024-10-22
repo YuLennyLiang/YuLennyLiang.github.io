@@ -92,7 +92,7 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I received my Ph.D. from the City University of Hong Kong (co-supervised by [Prof. Tei-Wei Kuo](https://mbzuai.ac.ae/study/faculty/tei-wei-kuo/) and [Prof. Chun Jason Xue](https://www.cs.cityu.edu.hk/~jasonxue/)). Now, I am a senior researcher at ETH Zurich (in SAFARI group led by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/)). I focus on the design and optimization of mobile operating systems and architecture, aiming at the needs of rapid start-up and the response of applications and prolonging the service life of devices."
+        summary = "I received my Ph.D. from the City University of Hong Kong (co-supervised by [Prof. Tei-Wei Kuo](https://mbzuai.ac.ae/study/faculty/tei-wei-kuo/) and [Prof. Chun Jason Xue](https://www.cs.cityu.edu.hk/~jasonxue/)). Now, I am a senior researcher and lecturer at ETH Zurich (in SAFARI group led by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/)). I focus on the design and optimization of mobile operating systems and architecture, aiming at the needs of rapid start-up and the response of applications and prolonging the service life of devices."
 
     # News section
     [params.news]
