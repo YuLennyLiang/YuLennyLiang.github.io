@@ -298,7 +298,7 @@ hrefTargetBlank = true
         title = "Academic Services"
 
         [[params.services.list]]
-        item = "The program committee of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, and FAST'25"
+        item = "The program committee of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, and FAST'26."
 
        # [[params.services.list]]
        # item = "Session chair of ATC'23"
