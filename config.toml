@@ -101,7 +101,7 @@ hrefTargetBlank = true
         title = "News"
         
         [[params.news.list]]
-        date = "Feb 29, 2024"
+        date = "Nov 11, 2024"
         details = "Our paper is accepted by HPCA 2025 ! "
 
         [[params.news.list]]
@@ -126,7 +126,7 @@ hrefTargetBlank = true
         enable = true
         cite = "HPCA 2025"
         title = "[Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices]"
-        author = "Yu Liang; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
+        author = "**Yu Liang**; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
         journal = "The 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, USA, 2025-3-1 to 2025-3-5"
         note = " "
      
