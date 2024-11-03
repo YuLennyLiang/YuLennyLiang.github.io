@@ -92,7 +92,7 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "I received my Ph.D. from the City University of Hong Kong (co-supervised by [Prof. Tei-Wei Kuo](https://www.csie.ntu.edu.tw/~ktw/) and [Prof. Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en)). Now, I am a senior researcher and lecturer at ETH Zurich (in SAFARI group led by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/)). I focus on the design and optimization of mobile operating systems and architecture, aiming at the needs of rapid start-up and the response of applications and prolonging the service life of devices."
+        summary = "I received my Ph.D. from the City University of Hong Kong (co-supervised by [Prof. Tei-Wei Kuo](https://www.csie.ntu.edu.tw/~ktw/) and [Prof. Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en)). Currently I am a senior researcher and lecturer at ETH Zurich (in SAFARI group led by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/)). I focus on the design and optimization of mobile operating systems and architecture, aiming at the needs of rapid start-up and the response of applications and prolonging the service life of devices."
 
     # News section
     [params.news]
@@ -127,7 +127,7 @@ hrefTargetBlank = true
         cite = "HPCA 2025"
         title = "[Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices]"
         author = "**Yu Liang**; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
-        journal = "The 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, USA, 2025-3-1 to 2025-3-5"
+        journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, USA, 2025-3-1 to 2025-3-5"
         note = " "
      
      [[params.conferencepapers.list]]
@@ -143,7 +143,7 @@ hrefTargetBlank = true
         cite = "eurosys23"
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3552326.3567497)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
-        journal = "In _18th European Conference on Computer Systems (EuroSys), Rome, Italy, 2023-5-9 to 2023-5-12"
+        journal = "In the 18th European Conference on Computer Systems (EuroSys), Rome, Italy, 2023-5-9 to 2023-5-12"
         note = " (Mentoring Paper)"
 
     [[params.conferencepapers.list]]
@@ -151,15 +151,15 @@ hrefTargetBlank = true
         cite = "fast22"
         title = "[CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime](https://www.usenix.org/conference/fast22/presentation/liang)"
         author = "**Yu Liang**; Riwei Pan; Tianyu Ren; Yufei Cui; Rachata Ausavarungnirun; Xianzhang Chen; Changlong Li; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In _20th USENIX Conference on File and Storage Technologies (FAST), July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
+        journal = "In the 20th USENIX Conference on File and Storage Technologies (FAST), July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
         note = ""
 
     [[params.conferencepapers.list]]
         enable = true
-        cite = "atc22"
+        cite = "atc20"
         title = "[Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems](https://www.usenix.org/conference/atc20/presentation/liang-yu)"
         author = "**Yu Liang**; Jinheng Li; Rachata Ausavarungnirun; Riwei Pan; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In _2020 USENIX Annual Technical Conference (ATC), Boston, MA, USA, 2020-7-15 to 2020-7-17 "
+        journal = "In 2020 USENIX Annual Technical Conference (ATC), Boston, MA, USA, 2020-7-15 to 2020-7-17 "
         note = ""
 
     [[params.conferencepapers.list]]
@@ -167,7 +167,7 @@ hrefTargetBlank = true
         cite = "hotstorage20"
         title = "[Differentiating Cache Files for Fine-grain Management to Improve Mobile Performance and Lifetime](https://www.usenix.org/conference/hotstorage20/presentation/liang)"
         author = "**Yu Liang**; Jinheng Li; Xianzhang Chen; Rachata Ausavarungnirun; Riwei Pan; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In _12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), Boston, MA, USA, 2020-7-13 to 2020-7-14"
+        journal = "In the 12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), Boston, MA, USA, 2020-7-13 to 2020-7-14"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -175,7 +175,7 @@ hrefTargetBlank = true
         cite = "hotstorage19"
         title = "[Mismatched Memory Management of Android Smartphones](https://www.usenix.org/conference/hotstorage19/presentation/liang)"
         author = "**Yu Liang**; Qiao Li; Chun Jason Xue;"
-        journal = "In _11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), RENTON, WA, USA, 2019-7-8 to 2019-7-9"
+        journal = "In the 11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), RENTON, WA, USA, 2019-7-8 to 2019-7-9"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -183,7 +183,7 @@ hrefTargetBlank = true
         cite = "sac19"
         title = "[Optimizing Fragmentation and Segment Cleaning for CPS based Storage Devices](https://dl.acm.org/doi/abs/10.1145/3297280.3297306)"
         author = "Qi Li; Aosong Deng; Congming Gao; **Yu Liang**; Liang Shi; Edwin H.-M. Sha;"
-        journal = "In _2019 ACM/SIGAPP Symposium on Applied Computing (SAC), Limassol, Cyprus, 2019-4-8 to 2019-4-12"
+        journal = "In 2019 ACM/SIGAPP Symposium on Applied Computing (SAC), Limassol, Cyprus, 2019-4-8 to 2019-4-12"
         note = ""
 
     [[params.conferencepapers.list]]
