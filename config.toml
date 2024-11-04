@@ -124,10 +124,10 @@ hrefTargetBlank = true
     # Conference papers
     [[params.conferencepapers.list]]
         enable = true
-        cite = "HPCA 2025"
+        cite = "HPCA25"
         title = "[Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices]"
         author = "**Yu Liang**; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
-        journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, USA, 2025-3-1 to 2025-3-5"
+        journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA'25), Las Vegas, USA, 2025-3-1 to 2025-3-5"
         note = " "
      
      [[params.conferencepapers.list]]
