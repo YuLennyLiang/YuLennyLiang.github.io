@@ -256,6 +256,12 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-file"
         title = "Patents"
+        
+        [[params.patents.list]]
+        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Pengcheng Fu, Jingjing Mao. Data storage method and device, Patent no.: CN118625993A, 2024, China."
+ 
+        [[params.patents.list]]
+        patent = "Chun Jason Xue, **Yu Liang**, Lei Li, Jian Yi, Jingjing Mao. Memory allocation method, electronic equipment and storage medium, Patent no.: CN118535315A, 2024, China."
 
         [[params.patents.list]]
         patent = "Jason Chun Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Memory space management method and memory space management mechanism, 2021, China, 2021107427614"
