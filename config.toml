@@ -284,6 +284,9 @@ hrefTargetBlank = true
         [[params.patents.list]]
         patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. Hot and cold data separation method and device, Patent no.: CN105677242B, 2018, China."
 
+        [[params.patents.list]]
+        patent = "Ruihua Zhang, **Yu Liang**, Zhongwei Chen. An event detection method based on wireless sensor network, Patent no.: CN102665253B, 2012, China."
+
     # Experiences section
     [params.experiences]
         enable = true
