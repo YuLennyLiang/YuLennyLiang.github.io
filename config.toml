@@ -308,7 +308,7 @@ hrefTargetBlank = true
         position = "Joint Optimization of OS and eMMC Controller"
         dates = ""
         company = ""
-        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reduce unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the **eMMC commercial products** of the cooperative eMMC controller vendor."
+        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reducing unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the **eMMC commercial products** of our cooperative eMMC controller vendor."
 
     # Services section
     [params.services]
