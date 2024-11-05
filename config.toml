@@ -299,7 +299,7 @@ hrefTargetBlank = true
         details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J3] has been submitted to the **Linux kernel Archives** by the collaborator.\n\n2. Provide code interpretation and analysis of the advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
 
         [[params.jobs.list]]
-        position = "Mobile Kernel Optimization Project"
+        position = "Mobile Kernel Optimization"
         dates = ""
         company = ""
         details = "1. Cache file optimization [C4] and file deduplication work have been adopted by our industry collaborator and **used in their OS** to save storage space on mobile devices.\n\n2. Provided other two optimization prototypes for mobile devices (based on my papers [J2] and [C5]). They have been adopted by **commercial smartphones**."
