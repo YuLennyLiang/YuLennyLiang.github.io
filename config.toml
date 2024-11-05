@@ -208,7 +208,7 @@ hrefTargetBlank = true
         cite = "tc21"
         title = "[Read-Ahead Efficiency on Mobile Devices: Observation, Characterization, and Optimization](https://ieeexplore.ieee.org/abstract/document/9054972)"
         author = "**Yu Liang**; Riwei Pan; Yajuan Du; Chenchen Fu; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "_IEEE TRANSACTIONS ON COMPUTERS (TC)_, 2021, 70: 99-110"
+        journal = "_IEEE Transactions on Computers (TC)_, 2021, 70: 99-110"
         note = ""
 
     [[params.journalpapers.list]]
@@ -265,9 +265,15 @@ hrefTargetBlank = true
  
         [[params.patents.list]]
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jing Qian, Jiaxin Li. File searching method and device based on electronic equipment, Patent no.: CN116821076A, 2023, China."
+ 
+        [[params.patents.list]]
+        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jiaxin Li, Jing Qian. Data deduplication method and electronic equipment, Patent no.: CN116821075A, 2023, China."
 
         [[params.patents.list]]
-        patent = "Jason Chun Xue, **Yu Liang**, Riwei Pan, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Cache file management method and mechanism, 2021, China, 2021107427864"
+        patent = "Jiacheng Huang, Qingan Li, **Yu Liang**, Chun Jason Xue, Jiaxin Li, Jing Qian. Method for controlling memory and electronic equipment, Patent no.: CN116820734A, 2023, China."
+
+        [[params.patents.list]]
+        patent = "Chun Jason Xue, **Yu Liang**, Riwei Pan, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Management method and management device for cache files, Patent no.: CN115617255A, 2023, China."
 
         [[params.patents.list]]
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li, Memory space management method and memory space management device, Patent no.: CN115543600A, 2022, China."
