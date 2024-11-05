@@ -267,16 +267,16 @@ hrefTargetBlank = true
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jing Qian, Jiaxin Li. File searching method and device based on electronic equipment, Patent no.: CN116821076A, 2023, China."
 
         [[params.patents.list]]
-        patent = "Jason Chun Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Memory space management method and memory space management mechanism, 2021, China, 2021107427614"
-
-        [[params.patents.list]]
         patent = "Jason Chun Xue, **Yu Liang**, Riwei Pan, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Cache file management method and mechanism, 2021, China, 2021107427864"
 
         [[params.patents.list]]
-        patent = "Jason Chun Xue, **Yu Liang**, Liang Shi. A method and electronic design for accelerating application startup, 2019, China, 2019110613620"
+        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li, Memory space management method and memory space management device, Patent no.: CN115543600A, 2022, China."
 
         [[params.patents.list]]
-        patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. Method for separating hot and cold data, 2018, China, 2015110297112"
+        patent = "Jason Chun Xue, **Yu Liang**, Liang Shi. Method for accelerating starting of application program and electronic equipment, Patent no.: CN112783564B, 2021, China."
+
+        [[params.patents.list]]
+        patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. Hot and cold data separation method and device, Patent no.: CN105677242B, 2018, China."
 
     # Experiences section
     [params.experiences]
