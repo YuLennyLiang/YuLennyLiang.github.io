@@ -127,7 +127,7 @@ hrefTargetBlank = true
         cite = "HPCA25"
         title = "[Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices]"
         author = "**Yu Liang**; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
-        journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (HPCA'25), Las Vegas, USA, 2025-3-1 to 2025-3-5"
+        journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (**HPCA'25**), Las Vegas, USA, 2025-3-1 to 2025-3-5"
         note = " "
      
      [[params.conferencepapers.list]]
@@ -135,7 +135,7 @@ hrefTargetBlank = true
         cite = "ASPLOS 24"
         title = "[More Apps, Faster Hot-Launch on Mobile Devices via Fore/Background-aware GC-Swap Co-design](https://dl.acm.org/doi/10.1145/3620666.3651377)"
         author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; **Yu Liang**; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
-        journal = "In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), San Diego, USA, 2024-4-27 to 2024-5-1"
+        journal = "In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'24**), San Diego, USA, 2024-4-27 to 2024-5-1"
         note = " "
         
     [[params.conferencepapers.list]]
@@ -143,7 +143,7 @@ hrefTargetBlank = true
         cite = "eurosys23"
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3552326.3567497)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
-        journal = "In the 18th European Conference on Computer Systems (EuroSys), Rome, Italy, 2023-5-9 to 2023-5-12"
+        journal = "In the 18th European Conference on Computer Systems (**EuroSys'23**), Rome, Italy, 2023-5-9 to 2023-5-12"
         note = " (Mentoring Paper)"
 
     [[params.conferencepapers.list]]
@@ -151,7 +151,7 @@ hrefTargetBlank = true
         cite = "fast22"
         title = "[CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime](https://www.usenix.org/conference/fast22/presentation/liang)"
         author = "**Yu Liang**; Riwei Pan; Tianyu Ren; Yufei Cui; Rachata Ausavarungnirun; Xianzhang Chen; Changlong Li; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In the 20th USENIX Conference on File and Storage Technologies (FAST), July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
+        journal = "In the 20th USENIX Conference on File and Storage Technologies (**FAST'22**), July 10-14, 2022, Santa Clara, CA, USA, 2022-2-22 to 2022-2-24"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -159,7 +159,7 @@ hrefTargetBlank = true
         cite = "atc20"
         title = "[Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems](https://www.usenix.org/conference/atc20/presentation/liang-yu)"
         author = "**Yu Liang**; Jinheng Li; Rachata Ausavarungnirun; Riwei Pan; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In 2020 USENIX Annual Technical Conference (ATC), Boston, MA, USA, 2020-7-15 to 2020-7-17 "
+        journal = "In 2020 USENIX Annual Technical Conference (**ATC'20**), Boston, MA, USA, 2020-7-15 to 2020-7-17 "
         note = ""
 
     [[params.conferencepapers.list]]
@@ -167,7 +167,7 @@ hrefTargetBlank = true
         cite = "hotstorage20"
         title = "[Differentiating Cache Files for Fine-grain Management to Improve Mobile Performance and Lifetime](https://www.usenix.org/conference/hotstorage20/presentation/liang)"
         author = "**Yu Liang**; Jinheng Li; Xianzhang Chen; Rachata Ausavarungnirun; Riwei Pan; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "In the 12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), Boston, MA, USA, 2020-7-13 to 2020-7-14"
+        journal = "In the 12th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage'20**), Boston, MA, USA, 2020-7-13 to 2020-7-14"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -175,7 +175,7 @@ hrefTargetBlank = true
         cite = "hotstorage19"
         title = "[Mismatched Memory Management of Android Smartphones](https://www.usenix.org/conference/hotstorage19/presentation/liang)"
         author = "**Yu Liang**; Qiao Li; Chun Jason Xue;"
-        journal = "In the 11th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), RENTON, WA, USA, 2019-7-8 to 2019-7-9"
+        journal = "In the 11th USENIX Workshop on Hot Topics in Storage and File Systems (**HotStorage'19**), RENTON, WA, USA, 2019-7-8 to 2019-7-9"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -183,7 +183,7 @@ hrefTargetBlank = true
         cite = "sac19"
         title = "[Optimizing Fragmentation and Segment Cleaning for CPS based Storage Devices](https://dl.acm.org/doi/abs/10.1145/3297280.3297306)"
         author = "Qi Li; Aosong Deng; Congming Gao; **Yu Liang**; Liang Shi; Edwin H.-M. Sha;"
-        journal = "In 2019 ACM/SIGAPP Symposium on Applied Computing (SAC), Limassol, Cyprus, 2019-4-8 to 2019-4-12"
+        journal = "In 2019 ACM/SIGAPP Symposium on Applied Computing (**SAC'19**), Limassol, Cyprus, 2019-4-8 to 2019-4-12"
         note = ""
 
     [[params.conferencepapers.list]]
@@ -191,7 +191,7 @@ hrefTargetBlank = true
         cite = "rtcsa17"
         title = "[An Empirical Study of F2FS on Mobile Devices](https://ieeexplore.ieee.org/abstract/document/8046304)"
         author = "**Yu Liang**; Chenchen Fu; Yajuan Du; Aosong Deng; Mengying Zhao; Liang Shi; Chun Jason Xue;"
-        journal = "In _IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Hsinchu, Taiwan, China, 2017-8-16 to 2017-8-18"
+        journal = "In _IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (**RTCSA'17**), Hsinchu, Taiwan, China, 2017-8-16 to 2017-8-18"
         note = ""
 
     # Journal papers
@@ -200,7 +200,7 @@ hrefTargetBlank = true
         cite = "tpds23"
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap](https://ieeexplore.ieee.org/document/10314796)"
         author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
-        journal = "_IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 2023"
+        journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
         note = "(Mentoring Paper)"
 
     [[params.journalpapers.list]]
@@ -208,7 +208,7 @@ hrefTargetBlank = true
         cite = "tc21"
         title = "[Read-Ahead Efficiency on Mobile Devices: Observation, Characterization, and Optimization](https://ieeexplore.ieee.org/abstract/document/9054972)"
         author = "**Yu Liang**; Riwei Pan; Yajuan Du; Chenchen Fu; Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "_IEEE Transactions on Computers (TC)_, 2021, 70: 99-110"
+        journal = "_IEEE Transactions on Computers (**TC**)_, 2021, 70: 99-110"
         note = ""
 
     [[params.journalpapers.list]]
@@ -216,7 +216,7 @@ hrefTargetBlank = true
         cite = "tcad21"
         title = "[iTRIM: I/O-Aware TRIM for Improving User Experience on Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9209165)"
         author = "**Yu Liang**; Cheng Ji; Chenchen Fu; Rachata Ausavarungnirun; Qiao Li; Riwei Pan; Siyu Chen;Liang Shi; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_, 2021, 40: 1782-1795"
+        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)_, 2021, 40: 1782-1795"
         note = ""
 
     [[params.journalpapers.list]]
@@ -224,7 +224,7 @@ hrefTargetBlank = true
         cite = "tcad20"
         title = "[SEAL: User Experience-Aware Two-Level Swap for Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9211475)"
         author = "Changlong Li; Liang Shi; **Yu Liang**; Chun Jason Xue;"
-        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_, 2020, 39: 4102-4114"
+        journal = "_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**)_, 2020, 39: 4102-4114"
         note = ""
 
     [[params.journalpapers.list]]
@@ -232,7 +232,7 @@ hrefTargetBlank = true
         cite = "tr20"
         title = "[Process Variation Aware Read Performance Improvement for LDPC-Based nand Flash Memory](https://ieeexplore.ieee.org/abstract/document/8642917)"
         author = "Qiao Li; Liang Shi; Yejia Di; Congming Gao; Cheng Ji; **Yu Liang**; Chun Jason Xue;"
-        journal = "_IEEE Transactionson Reliability (TR)_, 2020, 69: 310-321"
+        journal = "_IEEE Transactionson Reliability (**TR**)_, 2020, 69: 310-321"
         note = ""
 
     [[params.journalpapers.list]]
@@ -240,7 +240,7 @@ hrefTargetBlank = true
         cite = "tos20"
         title = "[Inspection and Characterization of App File Usage in Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3404119)"
         author = "Cheng Ji; Riwei Pan; Li-Pin Chang; Liang Shi; Zongwei Zhu; **Yu Liang**; Tei-Wei Kuo; Chun Jason Xue;"
-        journal = "_ACM Transactions on Storage (TOS)_, 2020, 16: 1-25"
+        journal = "_ACM Transactions on Storage (**TOS**)_, 2020, 16: 1-25"
         note = ""
 
     [[params.journalpapers.list]]
