@@ -262,6 +262,9 @@ hrefTargetBlank = true
  
         [[params.patents.list]]
         patent = "Chun Jason Xue, **Yu Liang**, Lei Li, Jian Yi, Jingjing Mao. Memory allocation method, electronic equipment and storage medium, Patent no.: CN118535315A, 2024, China."
+ 
+        [[params.patents.list]]
+        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jing Qian, Jiaxin Li. File searching method and device based on electronic equipment, Patent no.: CN116821076A, 2023, China."
 
         [[params.patents.list]]
         patent = "Jason Chun Xue, Riwei Pan, **Yu Liang**, Zhipeng Li, Ge Qiu, Jing Qian, Jian Yi, Jiaxin Li. Memory space management method and memory space management mechanism, 2021, China, 2021107427614"
