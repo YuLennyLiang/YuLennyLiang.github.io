@@ -284,9 +284,6 @@ hrefTargetBlank = true
         [[params.patents.list]]
         patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. Hot and cold data separation method and device, Patent no.: CN105677242B, 2018, China."
 
-        [[params.patents.list]]
-        patent = "Ruihua Zhang, **Yu Liang**, Zhongwei Chen. An event detection method based on wireless sensor network, Patent no.: CN102665253B, 2012, China."
-
     # Experiences section
     [params.experiences]
         enable = true
@@ -325,8 +322,8 @@ hrefTargetBlank = true
        # [[params.services.list]]
        # item = "Session chair of ATC'23"
 
-        [[params.services.list]]
-        item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
+       # [[params.services.list]]
+       # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
         item = "The reviewer for IEEE Transactions on Computers, Transactions on Storage, International Journal of Intelligent Systems, and Computing Surveys"
