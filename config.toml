@@ -144,7 +144,7 @@ hrefTargetBlank = true
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3552326.3567497)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
         journal = "In the 18th European Conference on Computer Systems (**EuroSys'23**), Rome, Italy, 2023-5-9 to 2023-5-12"
-        note = " (Mentoring Paper)"
+        note = " (**Mentoring Paper**)"
 
     [[params.conferencepapers.list]]
         enable = true
@@ -201,7 +201,7 @@ hrefTargetBlank = true
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap](https://ieeexplore.ieee.org/document/10314796)"
         author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
         journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
-        note = "(Mentoring Paper)"
+        note = "(**Mentoring Paper**)"
 
     [[params.journalpapers.list]]
         enable = true
