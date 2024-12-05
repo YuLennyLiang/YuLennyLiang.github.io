@@ -323,7 +323,7 @@ hrefTargetBlank = true
         title = "Academic Services"
 
         [[params.services.list]]
-        item = "PC member of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, and FAST'26."
+        item = "**Program Committee**: ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, and FAST'26."
 
        # [[params.services.list]]
        # item = "Session chair of ATC'23"
@@ -332,7 +332,7 @@ hrefTargetBlank = true
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "Reviewer of IEEE Transactions on Computers, Transactions on Storage, International Journal of Intelligent Systems, and Computing Surveys."
+        item = "**Reviewer**: IEEE Transactions on Computers, ACM Transactions on Storage, International Journal of Intelligent Systems, and ACM Computing Surveys."
 
     # Footer section
 
