@@ -258,7 +258,7 @@ hrefTargetBlank = true
         title = "Patents"
         
         [[params.patents.list]]
-        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Pengcheng Fu, Jingjing Mao. [Data storage method and device] (https://patents.google.com/patent/CN118625993A/en?oq=CN118625993A), Patent no.: CN118625993A, 2024, China."
+        patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Pengcheng Fu, Jingjing Mao. [Data storage method and device](https://patents.google.com/patent/CN118625993A/en?oq=CN118625993A), Patent no.: CN118625993A, 2024, China."
  
         [[params.patents.list]]
         patent = "Chun Jason Xue, **Yu Liang**, Lei Li, Jian Yi, Jingjing Mao. [Memory allocation method, electronic equipment and storage medium](https://patents.google.com/patent/CN118535315A/en?oq=CN118535315A), Patent no.: CN118535315A, 2024, China."
@@ -291,6 +291,7 @@ hrefTargetBlank = true
         title = "Highlighted Research Impact"
 
          # Summary section
+        As of November 2024, I have published over 25 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry.
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization"
