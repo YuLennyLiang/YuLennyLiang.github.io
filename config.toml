@@ -302,18 +302,19 @@ hrefTargetBlank = true
         icon = "fa-area-chart"
         title = "Highlighted Research Impact"
 
+       
+        [[params.jobs.list]]
+        position = "F2FS File System Deployment and Optimization"
+        dates = ""
+        company = ""
+        details = "1. I contributed to the adoption of F2FS on commercial mobile devices, conducting evaluations of its advantages and disadvantages [C9] and implementing numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the first smartphone vendor to adopt F2FS. Today, F2FS has become the de facto standard file system for mobile devices, powering billions of devices worldwide.\n\n2. A F2FS TRIM optimization "f2fs: relax async discard commands more" motivated by my paper [J3] has been submitted to the Linux kernel Archives by our collaborator.)"
+
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization"
         dates = ""
         company = ""
-        details = "1. Cache file optimization [C4] and file deduplication work have been adopted by our industry collaborator and **used in their OS** to save storage space on mobile devices.\n\n2. Provided other two optimization prototypes for mobile devices (based on my papers [J2] and [C5]). They have been adopted by **commercial smartphones** with over 400 million users."
+        details = "1. Cache file optimization [C4, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a core competency during their product launch. \n\n2.Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C2, C5] and patents [P2, P5, P6]. Some of these prototypes have been adopted by commercial smartphones, benefiting over 400 million users."
         
-        [[params.jobs.list]]
-        position = "F2FS File System Optimization"
-        dates = ""
-        company = ""
-        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J3] has been submitted to the **Linux kernel Archives** by a collaborator.\n\n2. Provide code interpretation and analysis of the advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
-
         [[params.jobs.list]]
         position = "Joint Optimization of OS and eMMC Controller"
         dates = ""
