@@ -301,13 +301,12 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-area-chart"
         title = "Highlighted Research Impact"
-
        
         [[params.jobs.list]]
         position = "F2FS File System Deployment and Optimization"
         dates = ""
         company = ""
-        details = "1. I contributed to the adoption of F2FS on commercial mobile devices, conducting evaluations of its advantages and disadvantages [C9] and implementing numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the first smartphone vendor to adopt F2FS. Today, F2FS has become the de facto standard file system for mobile devices, powering billions of devices worldwide.\n\n2. A F2FS TRIM optimization "f2fs: relax async discard commands more" motivated by my paper [J3] has been submitted to the Linux kernel Archives by our collaborator.)"
+        details = "1. I contributed to the adoption of F2FS on commercial mobile devices, conducting evaluations of its advantages and disadvantages [C9] and implementing numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the first smartphone vendor to adopt F2FS. Today, F2FS has become the de facto standard file system for mobile devices, powering billions of devices worldwide.\n\n2. A F2FS TRIM optimization "f2fs: relax async discard commands more" motivated by my paper [J3] has been submitted to the Linux kernel Archives by our collaborator."
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization"
@@ -319,7 +318,7 @@ hrefTargetBlank = true
         position = "Joint Optimization of OS and eMMC Controller"
         dates = ""
         company = ""
-        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reducing unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the **eMMC commercial products** of our cooperative eMMC controller vendor."
+        details = "1. Aiming to enhance the data reliability of the F2FS file system, a metadata and normal data-separated storage scheme was proposed based on our profiling results in [C9]. \n\n2.To extend the lifetime of eMMC, I proposed reducing unnecessary data writebacks by leveraging the access patterns of mobile application files, as observed in [C4, P9]. \n\n The proposed techniques have been implemented in some commercial eMMC products of our collaborating eMMC controller vendor."
 
     # Services section
     [params.services]
