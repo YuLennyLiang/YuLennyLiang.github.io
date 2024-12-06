@@ -120,11 +120,11 @@ hrefTargetBlank = true
 
         [[params.motto.list]]
         subtitle = "Objective"
-        details = "**Objective**: Dedicate my research to making meaningful contributions to the research community and society."
+        details = "Dedicate my research to making meaningful contributions to the research community and society."
 
         [[params.motto.list]]
         subtitle = "Mindset"
-        details = "**Mindset**: Think big and aim high."
+        details = "Think big and aim high."
 
     # Summary section
     [params.focuses]
@@ -165,7 +165,7 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-book"
         title = "Publications"
-        intro = "More conference/journal articles are available on [Google Scholar](https://scholar.google.com/citations?user=k-vjKGIAAAAJ)."
+        intro = "Please check my [Google Scholar](https://scholar.google.com/citations?user=k-vjKGIAAAAJ)."
         subtitlea ="Conference Papers"
         subtitleb ="Journal Papers"
 
