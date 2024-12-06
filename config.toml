@@ -124,7 +124,7 @@ hrefTargetBlank = true
 
         [[params.motto.list]]
         subtitle = "Mindset"
-        details = "Think big and aim high."
+        details = "Think big and aim high. Life is too short to do small things."
 
     # Summary section
     [params.focuses]
