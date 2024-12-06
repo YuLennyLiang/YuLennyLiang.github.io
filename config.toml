@@ -78,10 +78,13 @@ hrefTargetBlank = true
         title = "Research Interests"
 
         [[params.interests.list]]
-        interest = "File systems and memory management of mobile systems"
+        interest = "Operating systems design, I/O stack optimization, and memory management"
 
         [[params.interests.list]]
-        interest = "Hardware and software co-design for mobile devices"
+        interest = "Computer architecture design, including processing-in-memory and in-storage computing"
+
+        [[params.interests.list]]
+        interest = "Hardware and software co-design, especially for mobile devices"
 
 # Main body sections
 
