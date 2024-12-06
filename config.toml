@@ -120,11 +120,11 @@ hrefTargetBlank = true
 
         [[params.motto.list]]
         subtitle = "Objective"
-        details = "Dedicate my research to making meaningful contributions to the research community and society."
+        details = "**Objective**: Dedicate my research to making meaningful contributions to the research community and society."
 
         [[params.motto.list]]
         subtitle = "Mindset"
-        details = "Think big and aim high."
+        details = "**Mindset**: Think big and aim high."
 
     # Summary section
     [params.focuses]
