@@ -145,7 +145,7 @@ hrefTargetBlank = true
         position = "F2FS File System Optimization"
         dates = ""
         company = ""
-        details = "1. My contributions to the F2FS file system facilitated its deployment in billions of commercial mobile devices. I conducted a comprehensive evaluation of F2FS’s advantages and disadvantages [C9], identified its issues, and implemented numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the first smartphone vendor to adopt F2FS. Today, F2FS is the de facto standard file system for mobile devices, powering billions of devices worldwide. \n\n2. A F2FS TRIM optimization patch, 'f2fs: relax async discard commands more,' inspired by my paper [J3], was submitted to the Linux Kernel Archives by our collaborator. It has since become the default optimization in the Linux kernel."
+        details = "1. My contributions to the F2FS file system facilitated its **deployment in billions of commercial mobile devices**. I conducted a comprehensive evaluation of F2FS’s advantages and disadvantages [C9], identified its issues, and implemented numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the **first smartphone vendor** to adopt F2FS. Today, F2FS is the de facto standard file system for mobile devices, powering billions of devices worldwide. \n\n2. A F2FS TRIM optimization patch, 'f2fs: relax async discard commands more,' inspired by my paper [J3], was submitted to the **Linux Kernel Archives** by our collaborator. It has since become the default optimization in the Linux kernel."
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization"
