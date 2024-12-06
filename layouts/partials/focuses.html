@@ -1,0 +1,6 @@
+			<section class="section focuses-section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.focuses.icon }}"></i>{{ .Site.Params.focuses.title }}</h2>
+				<div class="focuses">
+					<p>{{ with .Site.Params.focuses.details }}{{ . | markdownify }}{{ end }}</p>
+				</div><!--//focuses-->
+			</section><!--//section-->

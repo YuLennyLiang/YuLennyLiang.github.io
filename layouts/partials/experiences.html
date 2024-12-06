@@ -1,5 +1,8 @@
 			<section class="section experiences-section">
 				<h2 class="section-title"><i class="fa {{ .Site.Params.experiences.icon }}"></i>{{ .Site.Params.experiences.title }}</h2>
+				<div class="intro">
+					<p>{{ with .Site.Params.experiences.intro }}{{ . | markdownify }}{{ end }}</p>
+				</div>
 
 {{ range .Site.Params.jobs.list }}
 				<div class="item">

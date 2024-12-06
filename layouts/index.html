@@ -15,14 +15,20 @@
 {{ if .Site.Params.news.enable }}
 {{ partial "news.html" . }}
 {{ end }}
-{{ if .Site.Params.publications.enable }}
-{{ partial "publications.html" . }}
+{{ if .Site.Params.motto.enable }}
+{{ partial "motto.html" . }}
+{{ end }}
+{{ if .Site.Params.focuses.enable }}
+{{ partial "focuses.html" . }}
+{{ end }}
+{{ if .Site.Params.experiences.enable }}
+{{ partial "experiences.html" . }}
 {{ end }}
 {{ if .Site.Params.patents.enable }}
 {{ partial "patents.html" . }}
 {{ end }}
-{{ if .Site.Params.experiences.enable }}
-{{ partial "experiences.html" . }}
+{{ if .Site.Params.publications.enable }}
+{{ partial "publications.html" . }}
 {{ end }}
 {{ if .Site.Params.services.enable }}
 {{ partial "services.html" . }}

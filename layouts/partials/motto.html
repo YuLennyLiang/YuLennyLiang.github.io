@@ -1,0 +1,11 @@
+			<section class="section motto-section">
+				<h2 class="section-title"><i class="fa {{ .Site.Params.motto.icon }}"></i>{{ .Site.Params.motto.title }}</h2>
+				<div class="motto-items">
+					{{- range .Site.Params.motto.list }}
+					<div class="motto-item">
+						<div class="motto-subtitle">{{ .subtitle }}</div>
+						<div class="motto-detail">{{ .details | markdownify }}</div>
+					</div>
+					{{- end }}
+				</div><!--//motto-items-->
+			</section><!--//section-->

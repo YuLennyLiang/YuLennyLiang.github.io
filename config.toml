@@ -94,12 +94,12 @@ hrefTargetBlank = true
         title = "Career Profile"
         summary = "I am currently a Senior Researcher and Lecturer at ETH Zurich (in [SAFARI group](https://safari.ethz.ch/group-members/) led by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/)). I received my Ph.D. from the City University of Hong Kong (co-supervised by [Prof. Tei-Wei Kuo](https://www.csie.ntu.edu.tw/~ktw/) and [Prof. Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en)). I focus on the design and optimization of mobile operating systems and architectures, aiming to meet the needs of rapid application launching and response, reduce energy consumption, address privacy and security issues, and prolong the service life of devices."
 
-     # News section
+    # News section
     [params.news]
         enable = true
         icon = "fa-bullhorn"
         title = "News"
-        
+
         [[params.news.list]]
         date = "Nov 3, 2024"
         details = "Our paper is accepted by HPCA 2025 ! "
@@ -111,25 +111,61 @@ hrefTargetBlank = true
         [[params.news.list]]
         date = "Nov 1, 2023"
         details = "Our paper is accepted by TPDS !"
-        
-    # Objective section
-    [params.objective]
+
+    # Motto section
+    [params.motto]
         enable = true
-        icon = "fa-bullhorn"
+        icon = "fa-rocket"
         title = "Objective and Mindset"
-        
-        [[params.objective.list]]
-        item = "**Objective**: Dedicate my research to making meaningful contributions to the research community and society."
-        
-        [[params.objective.list]]
-        item = "**Mindset**: Think big and aim high."
+
+        [[params.motto.list]]
+        subtitle = "Objective"
+        details = "Dedicate my research to making meaningful contributions to the research community and society."
+
+        [[params.motto.list]]
+        subtitle = "Mindset"
+        details = "Think big and aim high."
+
+    # Summary section
+    [params.focuses]
+        enable = true
+        icon = "fa-compass"
+        title = "Research and Teaching Interests"
+        details = "I focus on the design and optimization of mobile operating systems and architectures, aiming to meet the needs of rapid application launching and response, reduce energy consumption, address privacy and security issues, and prolong the service life of devices.\n\n - **Operating System:** mobile file systems, memory management schemes, mobile system privacy and security, I/O stack optimization, and storage systems.\n\n - **Computer Architecture:** hardware and software co-design for mobile devices, processing in memory (PIM), and in-storage computing for mobile devices."
+
+    # Experiences section
+    [params.experiences]
+        enable = true
+        icon = "fa-area-chart"
+        title = "Highlighted Research Impact"
+        intro = "As of November 2024, I have published over 25 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry."
+
+         # Summary section
+        [[params.jobs.list]]
+        position = "F2FS File System Optimization"
+        dates = ""
+        company = ""
+        details = "1. A TRIM optimization \"f2fs: relax async discard commands more\" motivated by my paper [J3] has been submitted to the **Linux kernel Archives** by a collaborator.\n\n2. Provide code interpretation and analysis of the advantages and disadvantages of F2FS to help its deployment on commercial mobile devices. (The collaborator is the first smartphone vendor that uses F2FS, and now F2FS is one of the most popular mobile file systems.)"
+
+        [[params.jobs.list]]
+        position = "Mobile Kernel Optimization"
+        dates = ""
+        company = ""
+        details = "1. Cache file optimization [C4] and file deduplication work have been adopted by our industry collaborator and **used in their OS** to save storage space on mobile devices.\n\n2. Provided other two optimization prototypes for mobile devices (based on my papers [J2] and [C5]). They have been adopted by **commercial smartphones** with over 400 million users."
+
+        [[params.jobs.list]]
+        position = "Joint Optimization of OS and eMMC Controller"
+        dates = ""
+        company = ""
+        details = "1. Aiming at the data security of F2FS file system, a metadata and normal data separated storage scheme is proposed.\n\n2. To improve eMMC lifetime, we propose reducing unnecessary data writebacks based on the access patterns of mobile application files.\n\n\tThe proposed techniques are planned to be implemented on the **eMMC commercial products** of our cooperative eMMC controller vendor."
+
 
     # Publications section
     [params.publications]
         enable = true
         icon = "fa-book"
         title = "Publications"
-        intro = ""
+        intro = "More conference/journal articles are available on [Google Scholar](https://scholar.google.com/citations?user=k-vjKGIAAAAJ)."
         subtitlea ="Conference Papers"
         subtitleb ="Journal Papers"
 
@@ -137,11 +173,11 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "HPCA25"
-        title = "[Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices]"
+        title = "Ariadne: Hotness-Aware and Size-Adaptive Compressed Swap Scheme for Mobile Devices"
         author = "**Yu Liang**; Aofeng Shen; Chun Jason Xue; Riwei Pan; Haiyu Mao; Nika Mansouri Ghiasi; Qingcai Jiang; Rakesh Nadig; Lei Li; Rachata Ausavarungnirun; Mohammad Sadrosadati; Onur Mutlu;"
         journal = "In the 31st IEEE International Symposium on High-Performance Computer Architecture (**HPCA'25**), Las Vegas, USA, 2025-3-1 to 2025-3-5"
         note = " "
-     
+
      [[params.conferencepapers.list]]
         enable = true
         cite = "ASPLOS 24"
@@ -149,14 +185,14 @@ hrefTargetBlank = true
         author = "Jiacheng Huang; Yunmo Zhang; Junqiao Qiu; **Yu Liang**; Rachata Ausavarungnirun; Qingan Li; Chun Jason Xue;"
         journal = "In the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'24**), San Diego, USA, 2024-4-27 to 2024-5-1"
         note = " "
-        
+
     [[params.conferencepapers.list]]
         enable = true
         cite = "eurosys23"
         title = "[ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices](https://dl.acm.org/doi/abs/10.1145/3552326.3567497)"
         author = "Changlong Li; **Yu Liang***; Rachata Ausavarungnirun; Zongwei Zhu; Liang Shi; Chun Jason Xue;"
         journal = "In the 18th European Conference on Computer Systems (**EuroSys'23**), Rome, Italy, 2023-5-9 to 2023-5-12"
-        note = " (**coresponding author**)"
+        note = " (**Mentoring Paper**)"
 
     [[params.conferencepapers.list]]
         enable = true
@@ -213,7 +249,7 @@ hrefTargetBlank = true
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap](https://ieeexplore.ieee.org/document/10314796)"
         author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
         journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
-        note = "(**coresponding author**)"
+        note = "(**Mentoring Paper**)"
 
     [[params.journalpapers.list]]
         enable = true
@@ -268,16 +304,16 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-file"
         title = "Patents"
-        
+
         [[params.patents.list]]
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Pengcheng Fu, Jingjing Mao. [Data storage method and device](https://patents.google.com/patent/CN118625993A/en?oq=CN118625993A), Patent no.: CN118625993A, 2024, China."
- 
+
         [[params.patents.list]]
         patent = "Chun Jason Xue, **Yu Liang**, Lei Li, Jian Yi, Jingjing Mao. [Memory allocation method, electronic equipment and storage medium](https://patents.google.com/patent/CN118535315A/en?oq=CN118535315A), Patent no.: CN118535315A, 2024, China."
- 
+
         [[params.patents.list]]
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jing Qian, Jiaxin Li. [File searching method and device based on electronic equipment](https://patents.google.com/patent/CN116821076A/en?oq=CN116821076A), Patent no.: CN116821076A, 2023, China."
- 
+
         [[params.patents.list]]
         patent = "Chun Jason Xue, Riwei Pan, **Yu Liang**, Jiaxin Li, Jing Qian. [Data deduplication method and electronic equipment](https://patents.google.com/patent/CN116821075A/en?oq=CN116821075A), Patent no.: CN116821075A, 2023, China."
 
@@ -296,30 +332,6 @@ hrefTargetBlank = true
         [[params.patents.list]]
         patent = "Jason Chun Xue, Liang Shi, **Yu Liang**. [Hot and cold data separation method and device](https://patents.google.com/patent/CN105677242B/en?oq=CN105677242B), Patent no.: CN105677242B, 2018, China."
 
-    # Experiences section
-    [params.experiences]
-        enable = true
-        icon = "fa-area-chart"
-        title = "Highlighted Research Impact"
-       
-        [[params.jobs.list]]
-        position = "F2FS File System Deployment and Optimization"
-        dates = ""
-        company = ""
-        details = "1. I contributed to the adoption of F2FS on commercial mobile devices, conducting evaluations of its advantages and disadvantages [C9] and implementing numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the first smartphone vendor to adopt F2FS. Today, F2FS has become the de facto standard file system for mobile devices, powering billions of devices worldwide.\n\n2. A F2FS TRIM optimization "f2fs: relax async discard commands more" motivated by my paper [J3] has been submitted to the Linux kernel Archives by our collaborator."
-
-        [[params.jobs.list]]
-        position = "Mobile Kernel Optimization"
-        dates = ""
-        company = ""
-        details = "1. Cache file optimization [C4, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a core competency during their product launch. \n\n2.Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C2, C5] and patents [P2, P5, P6]. Some of these prototypes have been adopted by commercial smartphones, benefiting over 400 million users."
-        
-        [[params.jobs.list]]
-        position = "Joint Optimization of OS and eMMC Controller"
-        dates = ""
-        company = ""
-        details = "1. Aiming to enhance the data reliability of the F2FS file system, a metadata and normal data-separated storage scheme was proposed based on our profiling results in [C9]. \n\n2.To extend the lifetime of eMMC, I proposed reducing unnecessary data writebacks by leveraging the access patterns of mobile application files, as observed in [C4, P9]. \n\n The proposed techniques have been implemented in some commercial eMMC products of our collaborating eMMC controller vendor."
-
     # Services section
     [params.services]
         enable = true
@@ -327,7 +339,7 @@ hrefTargetBlank = true
         title = "Academic Services"
 
         [[params.services.list]]
-        item = "**Program Committee**: ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, and FAST'26."
+        item = "PC member of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, and FAST'26."
 
        # [[params.services.list]]
        # item = "Session chair of ATC'23"
@@ -336,10 +348,9 @@ hrefTargetBlank = true
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "**Reviewer**: IEEE Transactions on Computers, ACM Transactions on Storage, International Journal of Intelligent Systems, and ACM Computing Surveys."
+        item = "Reviewer of IEEE Transactions on Computers, Transactions on Storage, International Journal of Intelligent Systems, and Computing Surveys."
 
-    # Footer section
-
+# Footer section
     # The original template is released under the Creative Commons Attribution 3.0 License.
     # Please keep the original attribution link when using for your own project.
     # If you'd like to use the template without the attribution,
