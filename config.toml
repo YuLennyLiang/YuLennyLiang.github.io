@@ -145,7 +145,7 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-area-chart"
         title = "Highlighted Research Impact"
-        intro = "As of November 2024, I have published over 26 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry."
+        intro = "As of February 2025, I have published over 26 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry."
 
          # Summary section
         [[params.jobs.list]]
