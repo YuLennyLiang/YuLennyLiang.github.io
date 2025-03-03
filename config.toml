@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "Jan 28, 2025"
+        details = "Our paper is accepted by ASPLOS 2025 ! "
+        
+        [[params.news.list]]
         date = "Nov 3, 2024"
         details = "Our paper is accepted by HPCA 2025 ! "
 
@@ -141,20 +145,20 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-area-chart"
         title = "Highlighted Research Impact"
-        intro = "As of November 2024, I have published over 25 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry."
+        intro = "As of November 2024, I have published over 26 papers and patents, including 11 first-author or mentored papers in top-tier systems and computer architecture conferences and journals, such as HPCA, FAST, USENIX ATC, EuroSys, TC, TCAD, and TPDS. Beyond academic publishing, my research is dedicated to making a significant impact on the industry."
 
          # Summary section
         [[params.jobs.list]]
         position = "F2FS File System Optimization"
         dates = ""
         company = ""
-        details = "1. My contributions to the F2FS file system facilitated its **deployment in billions of commercial mobile devices**. I conducted a comprehensive evaluation of F2FS’s advantages and disadvantages [C9], identified its issues, and implemented numerous optimizations [J3, C8, P9] for our collaborating vendor. This collaborator became the **first smartphone vendor** to adopt F2FS. Today, F2FS is the de facto standard file system for mobile devices, powering billions of devices worldwide. \n\n2. A F2FS TRIM optimization patch, 'f2fs: relax async discard commands more,' inspired by my paper [J3], was submitted to the **Linux Kernel Archives** by our collaborator. It has since become the default optimization in the Linux kernel."
+        details = "1. My contributions to the F2FS file system facilitated its **deployment in billions of commercial mobile devices**. I conducted a comprehensive evaluation of F2FS’s advantages and disadvantages [C10], identified its issues, and implemented numerous optimizations [J3, C9, P9] for our collaborating vendor. This collaborator became the **first smartphone vendor** to adopt F2FS. Today, F2FS is the de facto standard file system for mobile devices, powering billions of devices worldwide. \n\n2. A F2FS TRIM optimization patch, 'f2fs: relax async discard commands more,' inspired by my paper [J3], was submitted to the **Linux Kernel Archives** by our collaborator. It has since become the default optimization in the Linux kernel."
 
         [[params.jobs.list]]
         position = "Mobile Kernel Optimization"
         dates = ""
         company = ""
-        details = "1. Cache file optimization [C4, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a **core competency** during their **product launch**.\n\n2. Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C2, C5] and patents [P2, P5, P6]. Some of these prototypes have been adopted by **commercial smartphones**, benefiting over **400 million users**."
+        details = "1. Cache file optimization [C5, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a **core competency** during their **product launch**.\n\n2. Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C3, C6] and patents [P2, P5, P6]. Some of these prototypes have been adopted by **commercial smartphones**, benefiting over **400 million users**."
 
         [[params.jobs.list]]
         position = "Joint Optimization of OS and eMMC Controller"
