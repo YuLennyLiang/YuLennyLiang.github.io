@@ -115,10 +115,6 @@ hrefTargetBlank = true
         date = "Nov 3, 2024"
         details = "Our paper is accepted by HPCA 2025 ! "
 
-        [[params.news.list]]
-        date = "Feb 29, 2024"
-        details = "Our paper is accepted by ASPLOS 2024 ! "
-
     # Motto section
     [params.motto]
         enable = true
