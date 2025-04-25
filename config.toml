@@ -102,6 +102,10 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-bullhorn"
         title = "News"
+
+        [[params.news.list]]
+        date = "April 25, 2025"
+        details = "Our paper is accepted by ATC 2025 ! "
         
         [[params.news.list]]
         date = "Mar 23, 2025"
@@ -178,6 +182,14 @@ hrefTargetBlank = true
 
     # Conference papers
     
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "ATC25"
+        title = "SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup"
+        author = "Riwei Pan; **Yu Liang**;  Lei Li; Hongchao Du; Tei-Wei Kuo; Chun Jason Xue;"
+        journal = "In the 2025 USENIX Annual Technical Conference (**ATC'25**), Boston, USA, 2025-7-7 to 2025-7-9"
+        note = " (**corresponding author**) "
+        
     [[params.conferencepapers.list]]
         enable = true
         cite = "ISCA25"
