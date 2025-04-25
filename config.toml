@@ -186,7 +186,7 @@ hrefTargetBlank = true
         enable = true
         cite = "ATC25"
         title = "SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup"
-        author = "Riwei Pan; **Yu Liang**;  Lei Li; Hongchao Du; Tei-Wei Kuo; Chun Jason Xue;"
+        author = "Riwei Pan; **Yu Liang***;  Lei Li; Hongchao Du; Tei-Wei Kuo; Chun Jason Xue;"
         journal = "In the 2025 USENIX Annual Technical Conference (**ATC'25**), Boston, USA, 2025-7-7 to 2025-7-9"
         note = " (**corresponding author**) "
         
