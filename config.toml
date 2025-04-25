@@ -102,10 +102,14 @@ hrefTargetBlank = true
         enable = true
         icon = "fa-bullhorn"
         title = "News"
-
+        
         [[params.news.list]]
         date = "Mar 23, 2025"
         details = "Our paper is accepted by ISCA 2025 ! "
+        
+        [[params.news.list]]
+        date = "Mar 15, 2025"
+        details = "Our paper is accepted by ICS 2025 ! "
 
         [[params.news.list]]
         date = "Jan 28, 2025"
@@ -173,6 +177,23 @@ hrefTargetBlank = true
         subtitleb ="Journal Papers"
 
     # Conference papers
+    
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "ISCA25"
+        title = "REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing"
+        author = "Kangqi Chen; Rakesh Nadig; Nika Mansouri Ghiasi; **Yu Liang**; Haiyu Mao; Jisung Park; Manos Frouzakis; Mohammad Sadrosadati; Onur Mutlu;"
+        journal = "In the International Symposium on Computer Architecture  (ISCA'25), Tokyo, Japan, 2025-6-21 to 2025-6-25"
+        note = " "
+        
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "ICS25"
+        title = "MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem"
+        author = "Melina Soysal; Konstantina Koliogeorgi; Can Firtina; Nika Mansouri Ghiasi; Rakesh Nadig; Haiyu Mao; Geraldo Francisco de Oliveira Junior; **Yu Liang**; Klea Zambaku; Mohammad Sadrosadati; Onur Mutlu;"
+        journal = "In the ACM International Conference on Supercomputing (ICS'25), Salt Lake City, U.S.A., 2025-6-8 to 2025-6-10"
+        note = " "
+
     [[params.conferencepapers.list]]
         enable = true
         cite = "ASPLOS25"
