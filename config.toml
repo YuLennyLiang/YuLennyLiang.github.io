@@ -183,7 +183,7 @@ hrefTargetBlank = true
         cite = "ISCA25"
         title = "REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing"
         author = "Kangqi Chen; Rakesh Nadig; Nika Mansouri Ghiasi; **Yu Liang**; Haiyu Mao; Jisung Park; Manos Frouzakis; Mohammad Sadrosadati; Onur Mutlu;"
-        journal = "In the International Symposium on Computer Architecture  (ISCA'25), Tokyo, Japan, 2025-6-21 to 2025-6-25"
+        journal = "In the International Symposium on Computer Architecture  (**ISCA'25**), Tokyo, Japan, 2025-6-21 to 2025-6-25"
         note = " "
         
     [[params.conferencepapers.list]]
