@@ -158,13 +158,13 @@ hrefTargetBlank = true
         position = "Mobile Kernel Optimization"
         dates = ""
         company = ""
-        details = "1. Cache file optimization [C7, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a **core competency** during their **product launch**.\n\n2. Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C5, C8] and patents [P2, P5, P6]. Some of these prototypes have been adopted by **commercial smartphones**, benefiting over **400 million users**."
+        details = "1. Cache file optimization [C7, P6] and data storage/deduplication techniques [P1, P3, P4] have been adopted by our collaborating vendor and implemented in their OS to optimize storage space on mobile devices. Notably, [P4] was highlighted as a **core competency** during their **product launch**.\n\n2. Developed several memory management optimization prototypes for mobile devices, based on research papers [J2, C8, C10] and patents [P2, P5, P6]. Some of these prototypes have been adopted by **commercial smartphones**, benefiting over **400 million users**."
 
         [[params.jobs.list]]
         position = "Joint Optimization of OS and eMMC Controller"
         dates = ""
         company = ""
-        details = "1. Aiming to enhance the data reliability of the F2FS file system, a metadata and normal data-separated storage scheme was proposed based on our profiling results in [C11].\n\n2. To extend the lifetime of eMMC, I proposed reducing unnecessary data writebacks by leveraging the access patterns of mobile application files, as observed in [C6, P9].\n\n\t The proposed techniques have been implemented in some **commercial eMMC products** of our collaborating eMMC controller vendor. "
+        details = "1. Aiming to enhance the data reliability of the F2FS file system, a metadata and normal data-separated storage scheme was proposed based on our profiling results in [C12].\n\n2. To extend the lifetime of eMMC, I proposed reducing unnecessary data writebacks by leveraging the access patterns of mobile application files, as observed in [C9, P9].\n\n\t The proposed techniques have been implemented in some **commercial eMMC products** of our collaborating eMMC controller vendor. "
 
 
     # Publications section
