@@ -26,7 +26,7 @@ hrefTargetBlank = true
     # Profile section
     [params.profile]
         name = "Yu Liang"
-        tagline = "RTenured Research Scientist"
+        tagline = "Tenured Research Scientist"
         avatar = "photo.jpg"
 
     # Contact section
