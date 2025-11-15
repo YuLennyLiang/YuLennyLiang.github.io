@@ -104,12 +104,12 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
-        date = "October 1, 2025"
-        details = "I jointed the Whisper team at Inria Paris as a Tenured Research Scientist (CRCN – Chargé de recherche de classe normale)."
-        
-        [[params.news.list]]
         date = "Nov 7, 2025"
         details = "Our paper is accepted by HPCA 2026 ! "
+        
+        [[params.news.list]]
+        date = "October 1, 2025"
+        details = "I jointed the Whisper team at Inria Paris as a Tenured Research Scientist (CRCN – Chargé de recherche de classe normale)."
         
         [[params.news.list]]
         date = "April 25, 2025"
