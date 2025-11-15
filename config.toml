@@ -198,7 +198,7 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "ATC25"
-        title = "[SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup] (https://www.usenix.org/system/files/atc25-pan.pdf)"
+        title = "[SolFS: An Operation-Log Versioning File System for Hash-free Efficient Mobile Cloud Backup](https://www.usenix.org/system/files/atc25-pan.pdf)"
         author = "Riwei Pan; **Yu Liang***;  Lei Li; Hongchao Du; Tei-Wei Kuo; Chun Jason Xue;"
         journal = "In the 2025 USENIX Annual Technical Conference (**ATC'25**), Boston, USA, 2025-7-7 to 2025-7-9"
         note = " (**corresponding author**) "
@@ -214,7 +214,7 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "ICS25"
-        title = "[MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem] (https://arxiv.org/abs/2506.10931)"
+        title = "[MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem](https://arxiv.org/abs/2506.10931)"
         author = "Melina Soysal; Konstantina Koliogeorgi; Can Firtina; Nika Mansouri Ghiasi; Rakesh Nadig; Haiyu Mao; Geraldo Francisco de Oliveira Junior; **Yu Liang**; Klea Zambaku; Mohammad Sadrosadati; Onur Mutlu;"
         journal = "In the ACM International Conference on Supercomputing (ICS'25), Salt Lake City, U.S.A., 2025-6-8 to 2025-6-10"
         note = " "
