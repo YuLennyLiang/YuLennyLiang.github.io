@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "Dec 8, 2025"
+        details = "Our paper is accepted by FAST 2026 ! "
+        
+        [[params.news.list]]
         date = "Nov 7, 2025"
         details = "Our paper is accepted by HPCA 2026 ! "
         
@@ -187,6 +191,14 @@ hrefTargetBlank = true
 
     # Conference papers
     
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "FAST26"
+        title = "UnICom: A Universally High-Performant I/O Completion Mechanism for Modern Computer Systems"
+        author = "Riwei Pan; **Yu Liang***; Sam H. Noh; Lei Li; Nan Guan; Tei-Wei Kuo; Chun Jason Xue"
+        journal = "24th USENIX Conference on File and Storage Technologies (**FAST'26**), CA, USA, 2026-2-24 to 2026-2-26" 
+        note = " (**corresponding author**) "
+
     [[params.conferencepapers.list]]
         enable = true
         cite = "HPCA26"
