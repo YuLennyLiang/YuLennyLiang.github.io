@@ -321,7 +321,7 @@ hrefTargetBlank = true
         cite = "tos26"
         title = "[Efficient Hash-free Mobile Cloud Backup via Operation-Log Versioning]()"
         author = "Riwei Pan, **Yu Liang***; Lei Li; Hongchao Du; Tei-wei Kuo; Chun Jason Xue."
-        journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
+        journal = "_ACM Transactions on Storage (**TOS**)_, 2026"
         note = "(**corresponding author**)"
         
     [[params.journalpapers.list]]
@@ -329,7 +329,7 @@ hrefTargetBlank = true
         cite = "tpds23"
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap](https://ieeexplore.ieee.org/document/10314796)"
         author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
-        journal = "_ACM Transactions on Storage (**TOS**)_, 2026"
+        journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
         note = "(**corresponding author**)"
 
     [[params.journalpapers.list]]
