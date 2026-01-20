@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "Jan 12, 2026"
+        details = "Our paper is accepted by TOS ! "
+
+        [[params.news.list]]
         date = "Dec 8, 2025"
         details = "Our paper is accepted by FAST 2026 ! "
         
@@ -314,10 +318,18 @@ hrefTargetBlank = true
     # Journal papers
     [[params.journalpapers.list]]
         enable = true
+        cite = "tos26"
+        title = "[Efficient Hash-free Mobile Cloud Backup via Operation-Log Versioning]()"
+        author = "Riwei Pan, **Yu Liang***; Lei Li; Hongchao Du; Tei-wei Kuo; Chun Jason Xue."
+        journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
+        note = "(**corresponding author**)"
+        
+    [[params.journalpapers.list]]
+        enable = true
         cite = "tpds23"
         title = "[Flexible and Efficient Memory Swapping Across Mobile Devices with LegoSwap](https://ieeexplore.ieee.org/document/10314796)"
         author = "Changlong Li, **Yu Liang***; Liang Shi; Chao wang; Chun Jason Xue; Xuehai Zhou"
-        journal = "_IEEE Transactions on Parallel and Distributed Systems (**TPDS**)_, 2023"
+        journal = "_ACM Transactions on Storage (**TOS**)_, 2026"
         note = "(**corresponding author**)"
 
     [[params.journalpapers.list]]
