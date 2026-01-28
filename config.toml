@@ -201,6 +201,7 @@ hrefTargetBlank = true
         title = "UnICom: A Universally High-Performant I/O Completion Mechanism for Modern Computer Systems"
         author = "Riwei Pan; **Yu Liang**; Sam H. Noh; Lei Li; Nan Guan; Tei-Wei Kuo; Chun Jason Xue"
         journal = "24th USENIX Conference on File and Storage Technologies (**FAST'26**), CA, USA, 2026-2-24 to 2026-2-26" 
+        note = " (**corresponding author**) "
 
 
     [[params.conferencepapers.list]]
@@ -372,13 +373,6 @@ hrefTargetBlank = true
         journal = "_ACM Transactions on Storage (**TOS**)_, 2020, 16: 1-25"
         note = ""
 
-    [[params.journalpapers.list]]
-        enable = true
-        cite = "sigbed19"
-        title = "[Boosting read-ahead efficiency for improved user experience on mobile devices](https://dl.acm.org/doi/abs/10.1145/3373400.3373412)"
-        author = "**Yu Liang**; Yajuan Du; Chenchen Fu; Riwei Pan; Liang Shi; Chun Jason Xue;"
-        journal = "_SIGBED Review_, 2019, 16: 75-80"
-        note = ""
 
     # Patents Section
     [params.patents]
