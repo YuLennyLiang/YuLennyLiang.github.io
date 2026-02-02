@@ -423,7 +423,7 @@ hrefTargetBlank = true
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "Reviewer of IEEE Transactions on Computers (TC), Transactions on Computer Systems (TOCS), Transactions on Storage (TOS), International Journal of Intelligent Systems, and Computing Surveys."
+        item = "Reviewer of IEEE Transactions on Computers (TC), Transactions on Computer Systems (TOCS), Transactions on Storage (TOS), Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), International Journal of Intelligent Systems, and Computing Surveys."
 
 # Footer section
     # The original template is released under the Creative Commons Attribution 3.0 License.
