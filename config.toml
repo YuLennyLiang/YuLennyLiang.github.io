@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "March 19, 2026"
+        details = "Our paper is accepted by DSN 2026 ! "
+
+        [[params.news.list]]
         date = "Jan 12, 2026"
         details = "Our paper is accepted by TOS ! "
 
