@@ -209,7 +209,7 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "FAST26"
-        title = "UnICom: A Universally High-Performant I/O Completion Mechanism for Modern Computer Systems"
+        title = "[UnICom: A Universally High-Performant I/O Completion Mechanism for Modern Computer Systems](https://www.usenix.org/system/files/fast26-pan.pdf)"
         author = "Riwei Pan; **Yu Liang***; Sam H. Noh; Lei Li; Nan Guan; Tei-Wei Kuo; Chun Jason Xue"
         journal = "24th USENIX Conference on File and Storage Technologies (**FAST'26**), CA, USA, 2026-2-24 to 2026-2-26" 
         note = " (**corresponding author**) "
@@ -218,7 +218,7 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "HPCA26"
-        title = "Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in SSDs"
+        title = "[Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in SSDs](https://arxiv.org/pdf/2601.17633)"
         author = "Rakesh Nadig; Vamanan Arulchelvan; Mayank Kabra; Harshita Gupta; Rahul Bera; Nika Mansouri Ghiasi; Nanditha Rao; Qingcai Jiang; Andreas Kosmas Kakolyris；**Yu Liang**; Mohammad Sadrosadati; Onur Mutlu;"
         journal = "In the 32rd IEEE International Symposium on High-Performance Computer Architecture (**HPCA'26**), Sydney, Australia, 2026-1-31 to 2026-2-4"
 
