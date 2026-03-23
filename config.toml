@@ -425,7 +425,7 @@ hrefTargetBlank = true
         title = "Academic Services"
 
         [[params.services.list]]
-        item = "PC member of ATC'23, ATC'24, DSN'24, SYSTOR'24, EuroSys'25, ATC'25, FAST'25, EuroSys'26, FAST'26, OSDI'26, HotStorage'26, EuroSys'27, and ERC of ASPLOS'27."
+        item = "Program Committee: USENIX ATC (2023–2025), DSN (2024), SYSTOR (2024)，EuroSys (2025–2027), USENIX FAST (2025–2026), USENIX OSDI (2026), USENIX HotStorage (2026) and ERC of ASPLOS (2027)."
 
         [[params.services.list]]
         item = "DEI Chair of ATC'26"
@@ -434,7 +434,7 @@ hrefTargetBlank = true
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "Reviewer of IEEE Transactions on Computers (TC), Transactions on Computer Systems (TOCS), Transactions on Storage (TOS), Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), International Journal of Intelligent Systems, and Computing Surveys."
+        item = "Reviewer for journals: IEEE Transactions on Computers (TC), ACM Transactions on Computer Systems (TOCS), ACM Transactions on Storage (TOS), Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), International Journal of Intelligent Systems, and ACM Computing Surveys."
 
 # Footer section
     # The original template is released under the Creative Commons Attribution 3.0 License.
