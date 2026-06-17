@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "May 29, 2026"
+        details = "Our paper is accepted by NVMSA 2026 ! "
+        
+        [[params.news.list]]
         date = "Mar 19, 2026"
         details = "Our paper is accepted by DSN 2026 ! "
 
@@ -121,7 +125,7 @@ hrefTargetBlank = true
         
         [[params.news.list]]
         date = "Oct 1, 2025"
-        details = "I jointed the Whisper team at Inria Paris as a Tenured Research Scientist (CRCN – Chargé de recherche de classe normale)."
+        details = "I joined the Whisper team at Inria Paris as a Tenured Research Scientist (CRCN – Chargé de recherche de classe normale)."
         
       #  [[params.news.list]]
       #  date = "April 25, 2025"
@@ -198,12 +202,18 @@ hrefTargetBlank = true
         subtitleb ="Journal Papers"
 
     # Conference papers
-   
+    [[params.conferencepapers.list]]
+        enable = true
+        cite = "NVMSA26"
+        title = "Reducing Mobile Application Cold-Start Latency via Launch-Critical Data Identification"
+        author = "Lei Li, Riwei Pan, **Yu Liang**"
+        journal = "The 15th Non-Volatile Memory Systems and Applications Symposium (NVMSA 2026), Qingdao, China, 2026-8-11 to 2026-8-13"   
+    
     [[params.conferencepapers.list]]
         enable = true
         cite = "DSN26"
         title = "ScaleHammer: Exploiting Temporal Asymmetry to Amplify Read Disturbance in Modern DRAM Chips"
-        author = "Jikun Wang; Haocong Luo; Ataberk Olgun; Ismail Emir Yuksel; A. Giray Yaglikci; Yu Liang; Nisa Bostanci; Mohammad Sadrosadati; Onur Mutlu"
+        author = "Jikun Wang; Haocong Luo; Ataberk Olgun; Ismail Emir Yuksel; A. Giray Yaglikci; **Yu Liang**; Nisa Bostanci; Mohammad Sadrosadati; Onur Mutlu"
         journal = "The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN'26**), Charlotte, USA, 2026-6-22 to 2026-6-25"    
 
     [[params.conferencepapers.list]]
@@ -434,7 +444,7 @@ hrefTargetBlank = true
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
 
         [[params.services.list]]
-        item = "Reviewer for journals: IEEE Transactions on Computers (TC), ACM Transactions on Computer Systems (TOCS), ACM Transactions on Storage (TOS), Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), International Journal of Intelligent Systems, and ACM Computing Surveys."
+        item = "Reviewer for journals: IEEE Transactions on Computers (TC), ACM Transactions on Computer Systems (TOCS), ACM Transactions on Storage (TOS), Transactions on Computer-Aided Design of Integrated Circuits & Systems (TCAD), International Journal of Intelligent Systems, Transactions on Mobile Computing (TMC), and ACM Computing Surveys."
 
 # Footer section
     # The original template is released under the Creative Commons Attribution 3.0 License.
