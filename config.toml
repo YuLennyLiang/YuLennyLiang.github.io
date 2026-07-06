@@ -438,7 +438,7 @@ hrefTargetBlank = true
         item = "Program Committee: USENIX ATC (2023–2025), DSN (2024), SYSTOR (2024)，EuroSys (2025–2027), USENIX FAST (2025–2026), USENIX OSDI (2026), USENIX HotStorage (2026) and ERC of ASPLOS (2027)."
 
         [[params.services.list]]
-        item = "Conference Organization: DEI Chair of ATC'26 and Publicity Co-chair of NVMSA'26"
+        item = "Conference Organization: DEI Chair of ATC'26 and Publicity Co-chair of NVMSA'26."
 
        # [[params.services.list]]
        # item = "The artifact evaluation committee of ATC/OSDI'22, ATC/OSDI'23, ASPLOS'23, and SOSP'23"
