@@ -211,7 +211,7 @@ hrefTargetBlank = true
         cite = "HotStorage26"
         title = "User Space Buffer Cache with the Bells and Whistles of a Kernel Page Cache"
         author = "Riwei Pan, **Yu Liang**, Sam H. Noh, Lei Li, Nan Guan, Tei-Wei Kuo, Chun Jason Xue;"
-        journal = "The 18th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage 2026), Prague, Czechia, 2026-9-28 to 2026-9-29, preceding the SOSP'26."   
+        journal = "The 18th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage 2026), Prague, Czechia, 2026-9-28 to 2026-9-29, preceding the SOSP'26"   
         
     [[params.conferencepapers.list]]
         enable = true
