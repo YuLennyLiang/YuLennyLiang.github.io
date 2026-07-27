@@ -104,6 +104,10 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
+        date = "July 25, 2026"
+        details = "Our paper is accepted by Hotstorage 2026 ! "
+        
+        [[params.news.list]]
         date = "May 29, 2026"
         details = "Our paper is accepted by NVMSA 2026 ! "
         
