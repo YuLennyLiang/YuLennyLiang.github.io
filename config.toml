@@ -104,7 +104,7 @@ hrefTargetBlank = true
         title = "News"
 
         [[params.news.list]]
-        date = "August 12, 2026"
+        date = "Aug 12, 2026"
         details = "Our paper received the Best Student Paper Award at NVMSA 2026!"
         
         [[params.news.list]]
