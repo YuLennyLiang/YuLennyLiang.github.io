@@ -446,7 +446,7 @@ hrefTargetBlank = true
         title = "Academic Services"
 
         [[params.services.list]]
-        item = "Program Committee: USENIX ATC (2023–2025), DSN (2024), SYSTOR (2024)，EuroSys (2025–2027), USENIX FAST (2025–2026), USENIX OSDI (2026), USENIX HotStorage (2026) and ERC of ASPLOS (2027)."
+        item = "Program Committee: USENIX ATC (2023–2025), DSN (2024), SYSTOR (2024)，EuroSys (2025–2027), USENIX FAST (2025–2026), USENIX OSDI (2026), USENIX HotStorage (2026) and ASPLOS (2027)."
 
         [[params.services.list]]
         item = "Conference Organization: DEI Chair of ATC'26 and Publicity Co-chair of NVMSA'26."
