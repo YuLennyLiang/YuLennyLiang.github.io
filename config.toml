@@ -218,7 +218,8 @@ hrefTargetBlank = true
         cite = "NVMSA26"
         title = "[Reducing Mobile Application Cold-Start Latency via Launch-Critical Data Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11658881)"
         author = "Lei Li, Riwei Pan, **Yu Liang**;"
-        journal = "The 15th Non-Volatile Memory Systems and Applications Symposium (NVMSA 2026), Qingdao, China, 2026-8-11 to 2026-8-13"   
+        journal = "The 15th Non-Volatile Memory Systems and Applications Symposium (NVMSA 2026), Qingdao, China, 2026-8-11 to 2026-8-13" 
+        note = " (**Best Student Paper**) "
     
     [[params.conferencepapers.list]]
         enable = true
