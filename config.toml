@@ -216,14 +216,14 @@ hrefTargetBlank = true
     [[params.conferencepapers.list]]
         enable = true
         cite = "NVMSA26"
-        title = "Reducing Mobile Application Cold-Start Latency via Launch-Critical Data Identification"
+        title = "[Reducing Mobile Application Cold-Start Latency via Launch-Critical Data Identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11658881)"
         author = "Lei Li, Riwei Pan, **Yu Liang**;"
         journal = "The 15th Non-Volatile Memory Systems and Applications Symposium (NVMSA 2026), Qingdao, China, 2026-8-11 to 2026-8-13"   
     
     [[params.conferencepapers.list]]
         enable = true
         cite = "DSN26"
-        title = "ScaleHammer: Exploiting Temporal Asymmetry to Amplify Read Disturbance in Modern DRAM Chips"
+        title = "[ScaleHammer: Exploiting Temporal Asymmetry to Amplify Read Disturbance in Modern DRAM Chips](https://arxiv.org/pdf/2606.07761)"
         author = "Jikun Wang; Haocong Luo; Ataberk Olgun; Ismail Emir Yuksel; A. Giray Yaglikci; **Yu Liang**; Nisa Bostanci; Mohammad Sadrosadati; Onur Mutlu;"
         journal = "The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN'26**), Charlotte, USA, 2026-6-22 to 2026-6-25"    
 
